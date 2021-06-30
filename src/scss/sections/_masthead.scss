@@ -2,12 +2,34 @@
 // Masthead section styling
 //
 
+.overlay{
+    z-index: -1;
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background-color: #212529;
+    opacity: .5;
+}
+
+.masthead-1{
+    background-image: url("https://i.pinimg.com/originals/a8/77/ef/a877ef08bf5fed195b45253aba85cb98.jpg");
+}
+
+.masthead-2{
+    background-image: url("https://picsum.photos/1920/1080");
+}
+
+.masthead-3{
+    background-image: url("https://picsum.photos/1920/1080");
+}
+
 header.masthead {
     padding-top: 6rem + 4.5rem;
     padding-bottom: 6rem;
     text-align: center;
     color: $white;
-    background-image: url("https://i.pinimg.com/originals/a8/77/ef/a877ef08bf5fed195b45253aba85cb98.jpg");
     // background-image: url("/assets/img/logo.jpg");
     // background-color: $violin-1;
     background-repeat: no-repeat;
@@ -29,6 +51,10 @@ header.masthead {
         line-height: 3.25rem;
         margin-bottom: 2rem;
         font-family: $headings-font-family;
+    }
+    
+    .container{
+        z-index: 50;
     }
 }
 
