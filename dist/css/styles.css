@@ -10868,6 +10868,25 @@ p {
     padding: 9rem 0;
   }
 }
+.whatsapp-float {
+  position: fixed;
+  width: 60px;
+  height: 60px;
+  bottom: 40px;
+  right: 15px;
+  background-color: #25d366;
+  color: #FFF;
+  border-radius: 50px;
+  text-align: center;
+  font-size: 30px;
+  box-shadow: 2px 2px 3px #999;
+  z-index: 100;
+}
+.whatsapp-float .whatsapp-icon {
+  position: relative;
+  top: 5px;
+}
+
 .btn-xl {
   padding: 1.25rem 2.5rem;
   font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
@@ -10888,7 +10907,7 @@ p {
 #mainNav {
   padding-top: 1rem;
   padding-bottom: 1rem;
-  background-color: #FFA535;
+  background-color: #73C8A9;
 }
 #mainNav .navbar-toggler {
   padding: 0.75rem;
@@ -10937,7 +10956,7 @@ p {
   #mainNav.navbar-shrink {
     padding-top: 1rem;
     padding-bottom: 1rem;
-    background-color: #FFA535;
+    background-color: #73C8A9;
   }
   #mainNav.navbar-shrink .navbar-brand {
     font-size: 1.25em;
@@ -10954,7 +10973,7 @@ p {
   }
 }
 .overlay {
-  z-index: -1;
+  z-index: 1;
   position: absolute;
   top: 0;
   left: 0;
@@ -11018,6 +11037,13 @@ header.masthead .container {
     margin-bottom: 4rem;
   }
 }
+#cursos {
+  background-image: url(/assets/img/suzuki-book-sem-fundo.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
 #galeria .galeria-item {
   max-width: 26rem;
   margin-left: auto;
