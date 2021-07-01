@@ -66,31 +66,30 @@
                         <div class="masthead-subheading">30 anos</div>
                         <div class="masthead-heading text-uppercase">Centro de<br>Artes Suzuki</div>
                         <!-- <div class="masthead-subheading mt-0">1991 - 2021</div> -->
-                        <a class="btn btn-primary btn-xl text-uppercase" href="#cursos">Cursos</a>
+                        <a class="btn btn-primary btn-xl text-uppercase" href="#cursos">Quero ser Suzuki!</a>
                     </div>
                 </header>
             </div>
             <div class="carousel-item">
-                <header class="masthead masthead-2">
-                    <div class="container">
-                        <div class="masthead-subheading">Lorem</div>
-                        <div class="masthead-heading text-uppercase">Lorem Ipsum<br>Dolor</div>
+                <video autoplay muted loop id="myVideo">
+                    <source src="assets//video/Orquestra_Suzuki_apresenta_Twinkle_Twinkle_Little_Stars.mp4" type="video/mp4">
+                  </video>
+                <header class="masthead masthead-2 d-flex">
+                    <div class="container d-flex justify-content-center align-items-end">
+                        <!-- <div class="masthead-subheading">Lorem</div> -->
+                        <!-- <div class="masthead-heading text-uppercase">Lorem Ipsum<br>Dolor</div> -->
                         <!-- <div class="masthead-heading text-uppercase">
                             <img src="assets/img/logo-zuzuki.png" alt="">
                         </div> -->
-                        <a class="btn btn-primary btn-xl text-uppercase" href="#cursos">Cursos</a>
+                        <!-- <a class="btn btn-primary btn-xl text-uppercase" href="#cursos">Cursos</a> -->
                     </div>
                 </header>
             </div>
             <div class="carousel-item">
-                <header class="masthead masthead-3">
-                    <div class="container">
-                        <div class="masthead-subheading">Lorem</div>
-                        <div class="masthead-heading text-uppercase">Lorem Ipsum<br>Dolor</div>
-                        <!-- <div class="masthead-heading text-uppercase">
-                            <img src="assets/img/logo-zuzuki.png" alt="">
-                        </div> -->
-                        <a class="btn btn-primary btn-xl text-uppercase" href="#cursos">Cursos</a>
+                <!-- <div id="overlay"></div> -->
+                <header class="masthead masthead-3 d-flex bg-overlay">
+                    <div class="container d-flex justify-content-center align-items-end">
+                        <!-- <a class="btn btn-primary btn-xl text-uppercase" href="#cursos">Cursos</a> -->
                     </div>
                 </header>
             </div>
@@ -545,6 +544,15 @@
     <!-- * * Activate your form at https://startbootstrap.com/solution/contato-forms * *-->
     <!-- * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *-->
     <script src="https://cdn.startbootstrap.com/sb-forms-latest.js"></script>
+    <script>
+
+        var myCarousel = document.querySelector('#carouselExampleIndicators')
+        var carousel = new bootstrap.Carousel(myCarousel, {
+            interval: 2000,
+            wrap: false
+        })
+        carousel.pause()
+    </script>
 </body>
 
 </html>

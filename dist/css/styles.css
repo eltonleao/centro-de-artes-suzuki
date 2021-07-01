@@ -10887,6 +10887,33 @@ p {
   top: 5px;
 }
 
+.bg-overlay {
+  background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7));
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  color: #fff;
+  height: 450px;
+  padding-top: 50px;
+}
+
+#overlay {
+  position: absolute;
+  /* Sit on top of the page content */
+  width: 100%;
+  /* Full width (cover the whole page) */
+  height: 100%;
+  /* Full height (cover the whole page) */
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.2);
+  /* Black background with opacity */
+  z-index: 11;
+  /* Specify a stack order in case you're using a different order for other elements */
+}
+
 .btn-xl {
   padding: 1.25rem 2.5rem;
   font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
@@ -10972,6 +10999,12 @@ p {
     margin-right: 0;
   }
 }
+.carousel-indicators,
+.carousel-control-prev,
+.carousel-control-next {
+  z-index: 50;
+}
+
 .overlay {
   z-index: 1;
   position: absolute;
@@ -10988,14 +11021,29 @@ p {
 }
 
 .masthead-2 {
-  background-image: url("https://picsum.photos/1920/1080");
+  background-color: #73C8A9;
 }
 
 .masthead-3 {
-  background-image: url("https://picsum.photos/1920/1080");
+  background-image: url("https://scontent-gig2-1.xx.fbcdn.net/v/t1.6435-9/74285210_2335625986747388_6385842484764737536_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=e3f864&_nc_eui2=AeEMH1n2IRgKMipXUIxEBtXekqpROzVE5O6SqlE7NUTk7iG1PeQyJE8n745CLke5RzI4DJzor8DvO2KR4FTHmq1y&_nc_ohc=H2oar1H-IKkAX-l7XRn&tn=M9UIB03TFHVMq9eg&_nc_ht=scontent-gig2-1.xx&oh=de521ae0732242af2367fba491911216&oe=60E3FA28");
+}
+
+.carousel-item {
+  position: relative;
+}
+.carousel-item video {
+  position: absolute;
+  z-index: 2;
+  height: 100%;
+  margin: auto;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
 }
 
 header.masthead {
+  height: 98vh;
   padding-top: 10.5rem;
   padding-bottom: 6rem;
   text-align: center;
@@ -11021,6 +11069,7 @@ header.masthead .masthead-heading {
 }
 header.masthead .container {
   z-index: 50;
+  position: relative;
 }
 
 @media (min-width: 768px) {
