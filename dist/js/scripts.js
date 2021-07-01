@@ -1,5 +1,5 @@
 /*!
-* Start Bootstrap - Centro de Artes suzuki v1.0.2 (https://startbootstrap.com/theme/agency)
+* Start Bootstrap - Centro de Artes suzuki v1.0.3 (https://startbootstrap.com/theme/agency)
 * Copyright 2013-2021 Start Bootstrap
 * Licensed under MIT (https://github.com/StartBootstrap/centro-de-artes-suzuki/blob/master/LICENSE)
 */

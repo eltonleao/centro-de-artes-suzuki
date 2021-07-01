@@ -1,6 +1,6 @@
 @charset "UTF-8";
 /*!
-* Start Bootstrap - Centro de Artes suzuki v1.0.2 (https://startbootstrap.com/theme/agency)
+* Start Bootstrap - Centro de Artes suzuki v1.0.3 (https://startbootstrap.com/theme/agency)
 * Copyright 2013-2021 Start Bootstrap
 * Licensed under MIT (https://github.com/StartBootstrap/centro-de-artes-suzuki/blob/master/LICENSE)
 */
@@ -10875,7 +10875,7 @@ p {
   bottom: 40px;
   right: 15px;
   background-color: #25d366;
-  color: #FFF;
+  color: #fff;
   border-radius: 50px;
   text-align: center;
   font-size: 30px;
@@ -10912,6 +10912,14 @@ p {
   /* Black background with opacity */
   z-index: 11;
   /* Specify a stack order in case you're using a different order for other elements */
+}
+
+.opacity-5 {
+  opacity: 0.5 !important;
+}
+
+.opacity-3 {
+  opacity: 0.3 !important;
 }
 
 .btn-xl {
@@ -11087,7 +11095,6 @@ header.masthead .container {
   }
 }
 #cursos {
-  background-image: url(/assets/img/suzuki-book-sem-fundo.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
