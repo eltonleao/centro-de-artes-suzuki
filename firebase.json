@@ -4,6 +4,9 @@
     "indexes": "firestore.indexes.json"
   },
   "hosting": {
+    "headers": [
+      { "source":"/**", "headers": [{"key": "Cache-Control", "value": "no-cache"}] }
+    ],
     "site": "centrodeartessuzuki",
     "public": "dist",
     "ignore": [
