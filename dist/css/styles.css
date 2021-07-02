@@ -11234,8 +11234,8 @@ header.masthead .container {
   position: absolute;
   z-index: 100;
   left: 0;
-  width: 80px;
-  height: 80px;
+  width: 100px;
+  height: 100px;
   margin-left: 0;
   text-align: center;
   color: white;
@@ -11296,9 +11296,9 @@ header.masthead .container {
   }
   .timeline > li .timeline-image {
     left: 50%;
-    width: 100px;
-    height: 100px;
-    margin-left: -50px;
+    width: 200px;
+    height: 200px;
+    margin-left: -100px;
   }
   .timeline > li .timeline-image h4, .timeline > li .timeline-image .h4 {
     font-size: 13px;
