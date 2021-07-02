@@ -1,5 +1,5 @@
 /*!
-* Start Bootstrap - Centro de Artes suzuki v1.0.3 (https://startbootstrap.com/theme/agency)
+* Start Bootstrap - Centro de Artes suzuki v1.0.4 (https://startbootstrap.com/theme/agency)
 * Copyright 2013-2021 Start Bootstrap
 * Licensed under MIT (https://github.com/StartBootstrap/centro-de-artes-suzuki/blob/master/LICENSE)
 */
@@ -34,7 +34,7 @@ window.addEventListener('DOMContentLoaded', event => {
     if (mainNav) {
         new bootstrap.ScrollSpy(document.body, {
             target: '#mainNav',
-            offset: 74,
+            offset: 100,
         });
     };
 
@@ -50,5 +50,29 @@ window.addEventListener('DOMContentLoaded', event => {
             }
         });
     });
+
+    console.log('running...');
+    const Toast = Swal.mixin({
+        toast: true,
+        position: 'top-end',
+        showConfirmButton: false,
+        timer: 4000,
+        didOpen: (toast) => {
+            toast.addEventListener('mouseenter', Swal.stopTimer)
+            toast.addEventListener('mouseleave', Swal.resumeTimer)
+            toast.addEventListener('click', function() {
+                window.location = '#comentarios';
+                Swal.close()
+            })
+        }
+    })
+
+
+    setTimeout(function() {
+        Toast.fire({
+            icon: 'success',
+            title: 'Não se esqueça de publicar um comentário!'
+        })
+    }, 5000);
 
 });

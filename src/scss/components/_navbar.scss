@@ -3,9 +3,14 @@
 //
 
 #mainNav {
+    transition: all 0.5s;
     padding-top: 1rem;
     padding-bottom: 1rem;
     background-color: $violin-1;
+    &:hover {
+        transition: all 0.5s;
+        background-color: $violin-1;
+    }
 
     .navbar-toggler {
 
