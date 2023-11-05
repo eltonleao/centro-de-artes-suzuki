@@ -9004,7 +9004,7 @@
 
 				<div class="btContent">
 					<div class="bt_bb_wrapper" data-aos="fade-in">
-						<section id="bt_bb_section6545ff5b42d21" class="bt_bb_section bt_bb_layout_boxed_1200 bt_bb_vertical_align_middle bt_bb_top_spacing_large bt_bb_bottom_spacing_medium bt_bb_section_with_bottom_coverage_image" style=";background-color:#F5DDAF;" data-bt-override-class="null">
+						<section id="bt_bb_section6545ff5b42d21" class="bt_bb_section bt_bb_layout_boxed_1200 bt_bb_vertical_align_middle bt_bb_top_spacing_large bt_bb_bottom_spacing_medium bt_bb_section_with_bottom_coverage_image" style="background-color:#F5DDAF;" data-bt-override-class="null">
 							<div class="bt_bb_port">
 								<div class="bt_bb_cell">
 									<div class="bt_bb_cell_inner">
@@ -9014,13 +9014,13 @@
 													<div class="bt_bb_column_content">
 														<div class="bt_bb_column_content_inner">
 															<div class="bt_bb_separator bt_bb_border_style_none bt_bb_bottom_spacing_medium bt_bb_hidden_md bt_bb_hidden_lg" data-bt-override-class="null"></div>
-															<header class="bt_bb_headline bt_bb_color_scheme_5 bt_bb_dash_none bt_bb_superheadline bt_bb_size_huge bt_bb_align_inherit" style="; --primary-color:#191919; --secondary-color:#ec5750;" data-bt-override-class="{}">
+															<header class="bt_bb_headline bt_bb_color_scheme_5 bt_bb_dash_none bt_bb_superheadline bt_bb_size_huge bt_bb_align_inherit" style=" --primary-color:#191919; --secondary-color:#ec5750;" data-bt-override-class="{}">
 																<h2 class="bt_bb_headline_tag"><span class="bt_bb_headline_superheadline">CENTRO DE
 																		ARTES</span><span class="bt_bb_headline_content"><span>SUZUKI DE<br>PETRÓPOLIS</span></span>
 																</h2>
 															</header>
 															<div class="bt_bb_separator bt_bb_border_style_none bt_bb_bottom_spacing_medium" data-bt-override-class="null"></div>
-															<div class="bt_bb_button bt_bb_color_scheme_6 bt_bb_icon_position_left bt_bb_style_filled bt_bb_size_medium bt_bb_width_inline bt_bb_shape_inherit bt_bb_target_self bt_bb_align_inherit" style="; --primary-color:#ffffff; --secondary-color:#ec5750;" data-bt-override-class="{}"><a href="https://tabula.bold-themes.com/wavy/about-us/contact/" target="_self" class="bt_bb_link" title="APPLY TODAY"><span class="bt_bb_button_text">QUERO SER
+															<div class="bt_bb_button bt_bb_color_scheme_6 bt_bb_icon_position_left bt_bb_style_filled bt_bb_size_medium bt_bb_width_inline bt_bb_shape_inherit bt_bb_target_self bt_bb_align_inherit" style=" --primary-color:#ffffff; --secondary-color:#ec5750;" data-bt-override-class="{}"><a href="https://tabula.bold-themes.com/wavy/about-us/contact/" target="_self" class="bt_bb_link" title="APPLY TODAY"><span class="bt_bb_button_text">QUERO SER
 																		SUZUKI!</span></a>
 															</div>
 															<div class="bt_bb_separator bt_bb_border_style_none bt_bb_bottom_spacing_medium bt_bb_hidden_md bt_bb_hidden_lg" data-bt-override-class="null"></div>
@@ -9091,7 +9091,7 @@
 																							</div>
 																							<div class="bt_bb_column_inner col-xxl-9 col-xl-9 bt_bb_align_left bt_bb_vertical_align_top" data-width="9" data-bt-override-class="{}">
 																								<div class="bt_bb_column_inner_content">
-																									<div class="bt_bb_service bt_bb_color_scheme_5 bt_bb_style_borderless bt_bb_shape_circle bt_bb_size_xlarge bt_bb_shape_circle bt_bb_align_inherit" style="; --service-primary-color:#191919; --service-secondary-color:#ec5750;" data-bt-override-class="null">
+																									<div class="bt_bb_service bt_bb_color_scheme_5 bt_bb_style_borderless bt_bb_shape_circle bt_bb_size_xlarge bt_bb_shape_circle bt_bb_align_inherit" style=" --service-primary-color:#191919; --service-secondary-color:#ec5750;" data-bt-override-class="null">
 																										<a href="https://tabula.bold-themes.com/wavy/home/home-music-courses/#" target="_self" title="_self" data-ico-="" class="bt_bb_icon_holder" tabindex="-1"></a>
 																										<div class="bt_bb_service_content">
 																											<div class="bt_bb_service_content_title">
@@ -9141,7 +9141,7 @@
 																							</div>
 																							<div class="bt_bb_column_inner col-xxl-9 col-xl-9 bt_bb_align_left bt_bb_vertical_align_top" data-width="9" data-bt-override-class="{}">
 																								<div class="bt_bb_column_inner_content">
-																									<div class="bt_bb_service bt_bb_color_scheme_5 bt_bb_style_borderless bt_bb_shape_circle bt_bb_size_xlarge bt_bb_shape_circle bt_bb_align_inherit" style="; --service-primary-color:#191919; --service-secondary-color:#ec5750;" data-bt-override-class="null">
+																									<div class="bt_bb_service bt_bb_color_scheme_5 bt_bb_style_borderless bt_bb_shape_circle bt_bb_size_xlarge bt_bb_shape_circle bt_bb_align_inherit" style=" --service-primary-color:#191919; --service-secondary-color:#ec5750;" data-bt-override-class="null">
 																										<a href="https://tabula.bold-themes.com/wavy/home/home-music-courses/#" target="_self" title="_self" data-ico-="" class="bt_bb_icon_holder" tabindex="-1"></a>
 																										<div class="bt_bb_service_content">
 																											<div class="bt_bb_service_content_title">
@@ -9189,7 +9189,7 @@
 																							</div>
 																							<div class="bt_bb_column_inner col-xxl-9 col-xl-9 bt_bb_align_left bt_bb_vertical_align_top" data-width="9" data-bt-override-class="{}">
 																								<div class="bt_bb_column_inner_content">
-																									<div class="bt_bb_service bt_bb_color_scheme_5 bt_bb_style_borderless bt_bb_shape_circle bt_bb_size_xlarge bt_bb_shape_circle bt_bb_align_inherit" style="; --service-primary-color:#191919; --service-secondary-color:#ec5750;" data-bt-override-class="null">
+																									<div class="bt_bb_service bt_bb_color_scheme_5 bt_bb_style_borderless bt_bb_shape_circle bt_bb_size_xlarge bt_bb_shape_circle bt_bb_align_inherit" style=" --service-primary-color:#191919; --service-secondary-color:#ec5750;" data-bt-override-class="null">
 																										<a href="https://tabula.bold-themes.com/wavy/home/home-music-courses/#" target="_self" title="_self" data-ico-="" class="bt_bb_icon_holder" tabindex="-1"></a>
 																										<div class="bt_bb_service_content">
 																											<div class="bt_bb_service_content_title">
@@ -9239,7 +9239,7 @@
 																							</div>
 																							<div class="bt_bb_column_inner col-xxl-9 col-xl-9 bt_bb_align_left bt_bb_vertical_align_top" data-width="9" data-bt-override-class="{}">
 																								<div class="bt_bb_column_inner_content">
-																									<div class="bt_bb_service bt_bb_color_scheme_5 bt_bb_style_borderless bt_bb_shape_circle bt_bb_size_xlarge bt_bb_shape_circle bt_bb_align_inherit" style="; --service-primary-color:#191919; --service-secondary-color:#ec5750;" data-bt-override-class="null">
+																									<div class="bt_bb_service bt_bb_color_scheme_5 bt_bb_style_borderless bt_bb_shape_circle bt_bb_size_xlarge bt_bb_shape_circle bt_bb_align_inherit" style=" --service-primary-color:#191919; --service-secondary-color:#ec5750;" data-bt-override-class="null">
 																										<a href="https://tabula.bold-themes.com/wavy/home/home-music-courses/#" target="_self" title="_self" data-ico-="" class="bt_bb_icon_holder"></a>
 																										<div class="bt_bb_service_content">
 																											<div class="bt_bb_service_content_title">
@@ -9287,7 +9287,7 @@
 																							</div>
 																							<div class="bt_bb_column_inner col-xxl-9 col-xl-9 bt_bb_align_left bt_bb_vertical_align_top" data-width="9" data-bt-override-class="{}">
 																								<div class="bt_bb_column_inner_content">
-																									<div class="bt_bb_service bt_bb_color_scheme_5 bt_bb_style_borderless bt_bb_shape_circle bt_bb_size_xlarge bt_bb_shape_circle bt_bb_align_inherit" style="; --service-primary-color:#191919; --service-secondary-color:#ec5750;" data-bt-override-class="null">
+																									<div class="bt_bb_service bt_bb_color_scheme_5 bt_bb_style_borderless bt_bb_shape_circle bt_bb_size_xlarge bt_bb_shape_circle bt_bb_align_inherit" style=" --service-primary-color:#191919; --service-secondary-color:#ec5750;" data-bt-override-class="null">
 																										<a href="https://tabula.bold-themes.com/wavy/home/home-music-courses/#" target="_self" title="_self" data-ico-="" class="bt_bb_icon_holder"></a>
 																										<div class="bt_bb_service_content">
 																											<div class="bt_bb_service_content_title">
@@ -9337,7 +9337,7 @@
 																							</div>
 																							<div class="bt_bb_column_inner col-xxl-9 col-xl-9 bt_bb_align_left bt_bb_vertical_align_top" data-width="9" data-bt-override-class="{}">
 																								<div class="bt_bb_column_inner_content">
-																									<div class="bt_bb_service bt_bb_color_scheme_5 bt_bb_style_borderless bt_bb_shape_circle bt_bb_size_xlarge bt_bb_shape_circle bt_bb_align_inherit" style="; --service-primary-color:#191919; --service-secondary-color:#ec5750;" data-bt-override-class="null">
+																									<div class="bt_bb_service bt_bb_color_scheme_5 bt_bb_style_borderless bt_bb_shape_circle bt_bb_size_xlarge bt_bb_shape_circle bt_bb_align_inherit" style=" --service-primary-color:#191919; --service-secondary-color:#ec5750;" data-bt-override-class="null">
 																										<a href="https://tabula.bold-themes.com/wavy/home/home-music-courses/#" target="_self" title="_self" data-ico-="" class="bt_bb_icon_holder"></a>
 																										<div class="bt_bb_service_content">
 																											<div class="bt_bb_service_content_title">
@@ -9385,7 +9385,7 @@
 																							</div>
 																							<div class="bt_bb_column_inner col-xxl-9 col-xl-9 bt_bb_align_left bt_bb_vertical_align_top" data-width="9" data-bt-override-class="{}">
 																								<div class="bt_bb_column_inner_content">
-																									<div class="bt_bb_service bt_bb_color_scheme_5 bt_bb_style_borderless bt_bb_shape_circle bt_bb_size_xlarge bt_bb_shape_circle bt_bb_align_inherit" style="; --service-primary-color:#191919; --service-secondary-color:#ec5750;" data-bt-override-class="null">
+																									<div class="bt_bb_service bt_bb_color_scheme_5 bt_bb_style_borderless bt_bb_shape_circle bt_bb_size_xlarge bt_bb_shape_circle bt_bb_align_inherit" style=" --service-primary-color:#191919; --service-secondary-color:#ec5750;" data-bt-override-class="null">
 																										<a href="https://tabula.bold-themes.com/wavy/home/home-music-courses/#" target="_self" title="_self" data-ico-="" class="bt_bb_icon_holder" tabindex="-1"></a>
 																										<div class="bt_bb_service_content">
 																											<div class="bt_bb_service_content_title">
@@ -9435,7 +9435,7 @@
 																							</div>
 																							<div class="bt_bb_column_inner col-xxl-9 col-xl-9 bt_bb_align_left bt_bb_vertical_align_top" data-width="9" data-bt-override-class="{}">
 																								<div class="bt_bb_column_inner_content">
-																									<div class="bt_bb_service bt_bb_color_scheme_5 bt_bb_style_borderless bt_bb_shape_circle bt_bb_size_xlarge bt_bb_shape_circle bt_bb_align_inherit" style="; --service-primary-color:#191919; --service-secondary-color:#ec5750;" data-bt-override-class="null">
+																									<div class="bt_bb_service bt_bb_color_scheme_5 bt_bb_style_borderless bt_bb_shape_circle bt_bb_size_xlarge bt_bb_shape_circle bt_bb_align_inherit" style=" --service-primary-color:#191919; --service-secondary-color:#ec5750;" data-bt-override-class="null">
 																										<a href="https://tabula.bold-themes.com/wavy/home/home-music-courses/#" target="_self" title="_self" data-ico-="" class="bt_bb_icon_holder" tabindex="-1"></a>
 																										<div class="bt_bb_service_content">
 																											<div class="bt_bb_service_content_title">
@@ -9483,7 +9483,7 @@
 																							</div>
 																							<div class="bt_bb_column_inner col-xxl-9 col-xl-9 bt_bb_align_left bt_bb_vertical_align_top" data-width="9" data-bt-override-class="{}">
 																								<div class="bt_bb_column_inner_content">
-																									<div class="bt_bb_service bt_bb_color_scheme_5 bt_bb_style_borderless bt_bb_shape_circle bt_bb_size_xlarge bt_bb_shape_circle bt_bb_align_inherit" style="; --service-primary-color:#191919; --service-secondary-color:#ec5750;" data-bt-override-class="null">
+																									<div class="bt_bb_service bt_bb_color_scheme_5 bt_bb_style_borderless bt_bb_shape_circle bt_bb_size_xlarge bt_bb_shape_circle bt_bb_align_inherit" style=" --service-primary-color:#191919; --service-secondary-color:#ec5750;" data-bt-override-class="null">
 																										<a href="https://tabula.bold-themes.com/wavy/home/home-music-courses/#" target="_self" title="_self" data-ico-="" class="bt_bb_icon_holder" tabindex="-1"></a>
 																										<div class="bt_bb_service_content">
 																											<div class="bt_bb_service_content_title">
@@ -9533,7 +9533,7 @@
 																							</div>
 																							<div class="bt_bb_column_inner col-xxl-9 col-xl-9 bt_bb_align_left bt_bb_vertical_align_top" data-width="9" data-bt-override-class="{}">
 																								<div class="bt_bb_column_inner_content">
-																									<div class="bt_bb_service bt_bb_color_scheme_5 bt_bb_style_borderless bt_bb_shape_circle bt_bb_size_xlarge bt_bb_shape_circle bt_bb_align_inherit" style="; --service-primary-color:#191919; --service-secondary-color:#ec5750;" data-bt-override-class="null">
+																									<div class="bt_bb_service bt_bb_color_scheme_5 bt_bb_style_borderless bt_bb_shape_circle bt_bb_size_xlarge bt_bb_shape_circle bt_bb_align_inherit" style=" --service-primary-color:#191919; --service-secondary-color:#ec5750;" data-bt-override-class="null">
 																										<a href="https://tabula.bold-themes.com/wavy/home/home-music-courses/#" target="_self" title="_self" data-ico-="" class="bt_bb_icon_holder" tabindex="-1"></a>
 																										<div class="bt_bb_service_content">
 																											<div class="bt_bb_service_content_title">
@@ -9581,7 +9581,7 @@
 																							</div>
 																							<div class="bt_bb_column_inner col-xxl-9 col-xl-9 bt_bb_align_left bt_bb_vertical_align_top" data-width="9" data-bt-override-class="{}">
 																								<div class="bt_bb_column_inner_content">
-																									<div class="bt_bb_service bt_bb_color_scheme_5 bt_bb_style_borderless bt_bb_shape_circle bt_bb_size_xlarge bt_bb_shape_circle bt_bb_align_inherit" style="; --service-primary-color:#191919; --service-secondary-color:#ec5750;" data-bt-override-class="null">
+																									<div class="bt_bb_service bt_bb_color_scheme_5 bt_bb_style_borderless bt_bb_shape_circle bt_bb_size_xlarge bt_bb_shape_circle bt_bb_align_inherit" style=" --service-primary-color:#191919; --service-secondary-color:#ec5750;" data-bt-override-class="null">
 																										<a href="https://tabula.bold-themes.com/wavy/home/home-music-courses/#" target="_self" title="_self" data-ico-="" class="bt_bb_icon_holder" tabindex="-1"></a>
 																										<div class="bt_bb_service_content">
 																											<div class="bt_bb_service_content_title">
@@ -9618,7 +9618,7 @@
 																			</div>
 																		</div>
 																	</div>
-																	<ul class="slick-dots" style="">
+																	<ul class="slick-dots">
 																		<li class=""><button type="button">1</button>
 																		</li>
 																		<li class="slick-active"><button type="button">2</button></li>
@@ -9638,7 +9638,7 @@
 								</div>
 							</div>
 						</section>
-						<section id="bt_bb_section6545ff5b469c3" class="bt_bb_section bt_bb_color_scheme_2 bt_bb_layout_boxed_1200 bt_bb_vertical_align_top bt_bb_top_spacing_large bt_bb_bottom_spacing_large bt_bb_section_with_top_coverage_image bt_bb_section_with_bottom_coverage_image" style="; --section-primary-color:#191919; --section-secondary-color:#ffffff;;background-color:#ebeaf8;" data-bt-override-class="null">
+						<section id="bt_bb_section6545ff5b469c3" class="bt_bb_section bt_bb_color_scheme_2 bt_bb_layout_boxed_1200 bt_bb_vertical_align_top bt_bb_top_spacing_large bt_bb_bottom_spacing_large bt_bb_section_with_top_coverage_image bt_bb_section_with_bottom_coverage_image" style=" --section-primary-color:#191919; --section-secondary-color:#ffffff;;background-color:#ebeaf8;" data-bt-override-class="null">
 							<div class="bt_bb_port">
 								<div class="bt_bb_cell">
 									<div class="bt_bb_cell_inner">
@@ -9676,7 +9676,7 @@
 																					</div>
 																					<div class="bt_bb_separator bt_bb_border_style_none bt_bb_bottom_spacing_normal" data-bt-override-class="null">
 																					</div>
-																					<header class="bt_bb_headline btTestimonials bt_bb_color_scheme_5 bt_bb_dash_none bt_bb_superheadline bt_bb_subheadline bt_bb_size_normal bt_bb_align_inherit btTestimonials" style="; --primary-color:#191919; --secondary-color:#ec5750;" data-bt-override-class="{}">
+																					<header class="bt_bb_headline btTestimonials bt_bb_color_scheme_5 bt_bb_dash_none bt_bb_superheadline bt_bb_subheadline bt_bb_size_normal bt_bb_align_inherit btTestimonials" style=" --primary-color:#191919; --secondary-color:#ec5750;" data-bt-override-class="{}">
 																						<h6 class="bt_bb_headline_tag">
 																							<span class="bt_bb_headline_superheadline">LOUREAL
 																								SIMMONS</span>
@@ -9708,7 +9708,7 @@
 																					</div>
 																					<div class="bt_bb_separator bt_bb_border_style_none bt_bb_bottom_spacing_normal" data-bt-override-class="null">
 																					</div>
-																					<header class="bt_bb_headline btTestimonials bt_bb_color_scheme_5 bt_bb_dash_none bt_bb_superheadline bt_bb_subheadline bt_bb_size_normal bt_bb_align_inherit btTestimonials" style="; --primary-color:#191919; --secondary-color:#ec5750;" data-bt-override-class="{}">
+																					<header class="bt_bb_headline btTestimonials bt_bb_color_scheme_5 bt_bb_dash_none bt_bb_superheadline bt_bb_subheadline bt_bb_size_normal bt_bb_align_inherit btTestimonials" style=" --primary-color:#191919; --secondary-color:#ec5750;" data-bt-override-class="{}">
 																						<h6 class="bt_bb_headline_tag">
 																							<span class="bt_bb_headline_superheadline">RICARDO
 																								LOGAN</span>
@@ -9740,7 +9740,7 @@
 																					</div>
 																					<div class="bt_bb_separator bt_bb_border_style_none bt_bb_bottom_spacing_normal" data-bt-override-class="null">
 																					</div>
-																					<header class="bt_bb_headline btTestimonials bt_bb_color_scheme_5 bt_bb_dash_none bt_bb_superheadline bt_bb_subheadline bt_bb_size_normal bt_bb_align_inherit btTestimonials" style="; --primary-color:#191919; --secondary-color:#ec5750;" data-bt-override-class="{}">
+																					<header class="bt_bb_headline btTestimonials bt_bb_color_scheme_5 bt_bb_dash_none bt_bb_superheadline bt_bb_subheadline bt_bb_size_normal bt_bb_align_inherit btTestimonials" style=" --primary-color:#191919; --secondary-color:#ec5750;" data-bt-override-class="{}">
 																						<h6 class="bt_bb_headline_tag">
 																							<span class="bt_bb_headline_superheadline">JILL
 																								ALLISON</span>
@@ -9772,7 +9772,7 @@
 																					</div>
 																					<div class="bt_bb_separator bt_bb_border_style_none bt_bb_bottom_spacing_normal" data-bt-override-class="null">
 																					</div>
-																					<header class="bt_bb_headline btTestimonials bt_bb_color_scheme_5 bt_bb_dash_none bt_bb_superheadline bt_bb_subheadline bt_bb_size_normal bt_bb_align_inherit btTestimonials" style="; --primary-color:#191919; --secondary-color:#ec5750;" data-bt-override-class="{}">
+																					<header class="bt_bb_headline btTestimonials bt_bb_color_scheme_5 bt_bb_dash_none bt_bb_superheadline bt_bb_subheadline bt_bb_size_normal bt_bb_align_inherit btTestimonials" style=" --primary-color:#191919; --secondary-color:#ec5750;" data-bt-override-class="{}">
 																						<h6 class="bt_bb_headline_tag">
 																							<span class="bt_bb_headline_superheadline">BENNIE
 																								PARKER</span>
@@ -9786,7 +9786,7 @@
 																			</div>
 																		</div>
 																	</div>
-																	<ul class="slick-dots" style="">
+																	<ul class="slick-dots">
 																		<li class=""><button type="button">1</button>
 																		</li>
 																		<li class=""><button type="button">2</button>
@@ -9804,7 +9804,7 @@
 													<div class="bt_bb_column_content">
 														<div class="bt_bb_column_content_inner">
 															<div class="bt_bb_separator bt_bb_border_style_none bt_bb_bottom_spacing_medium" data-bt-override-class="null"></div>
-															<header class="bt_bb_headline bt_bb_color_scheme_5 bt_bb_dash_none bt_bb_superheadline bt_bb_subheadline bt_bb_size_extralarge bt_bb_align_inherit" style="; --primary-color:#191919; --secondary-color:#ec5750;" data-bt-override-class="{}">
+															<header class="bt_bb_headline bt_bb_color_scheme_5 bt_bb_dash_none bt_bb_superheadline bt_bb_subheadline bt_bb_size_extralarge bt_bb_align_inherit" style=" --primary-color:#191919; --secondary-color:#ec5750;" data-bt-override-class="{}">
 																<h3 class="bt_bb_headline_tag"><span class="bt_bb_headline_superheadline">ABOUT
 																		US</span><span class="bt_bb_headline_content"><span>Tab Music
 																			Courses</span></span></h3>
@@ -9814,7 +9814,7 @@
 																	mollit readymade kombucha pug minim.</div>
 															</header>
 															<div class="bt_bb_separator bt_bb_border_style_none bt_bb_bottom_spacing_medium" data-bt-override-class="null"></div>
-															<div class="bt_bb_button bt_bb_color_scheme_6 bt_bb_icon_position_left bt_bb_style_filled bt_bb_size_medium bt_bb_width_inline bt_bb_shape_inherit bt_bb_target_self bt_bb_align_inherit" style="; --primary-color:#ffffff; --secondary-color:#ec5750;" data-bt-override-class="{}"><a href="https://tabula.bold-themes.com/wavy/about-us/contact/" target="_self" class="bt_bb_link" title="APPLY TODAY"><span class="bt_bb_button_text">APPLY TODAY</span></a>
+															<div class="bt_bb_button bt_bb_color_scheme_6 bt_bb_icon_position_left bt_bb_style_filled bt_bb_size_medium bt_bb_width_inline bt_bb_shape_inherit bt_bb_target_self bt_bb_align_inherit" style=" --primary-color:#ffffff; --secondary-color:#ec5750;" data-bt-override-class="{}"><a href="https://tabula.bold-themes.com/wavy/about-us/contact/" target="_self" class="bt_bb_link" title="APPLY TODAY"><span class="bt_bb_button_text">APPLY TODAY</span></a>
 															</div>
 															<div class="bt_bb_separator bt_bb_border_style_none bt_bb_bottom_spacing_medium" data-bt-override-class="null"></div>
 														</div>
@@ -9924,7 +9924,7 @@
 								</div>
 							</div>
 						</section>
-						<section id="bt_bb_section6545ff5b4b5d0" class="bt_bb_section bt_bb_layout_boxed_1200 bt_bb_vertical_align_top bt_bb_top_spacing_large bt_bb_bottom_spacing_medium bt_bb_section_with_top_coverage_image" style=";background-color:#F5DDAF;" data-bt-override-class="null">
+						<section id="bt_bb_section6545ff5b4b5d0" class="bt_bb_section bt_bb_layout_boxed_1200 bt_bb_vertical_align_top bt_bb_top_spacing_large bt_bb_bottom_spacing_medium bt_bb_section_with_top_coverage_image" style="background-color:#F5DDAF;" data-bt-override-class="null">
 							<div class="bt_bb_port">
 								<div class="bt_bb_cell">
 									<div class="bt_bb_cell_inner">
@@ -9934,13 +9934,13 @@
 													<div class="bt_bb_column_content">
 														<div class="bt_bb_column_content_inner">
 															<div class="bt_bb_separator bt_bb_border_style_none bt_bb_bottom_spacing_normal" data-bt-override-class="null"></div>
-															<header class="bt_bb_headline bt_bb_color_scheme_5 bt_bb_dash_none bt_bb_superheadline bt_bb_size_large bt_bb_align_inherit" style="; --primary-color:#191919; --secondary-color:#ec5750;" data-bt-override-class="{}">
+															<header class="bt_bb_headline bt_bb_color_scheme_5 bt_bb_dash_none bt_bb_superheadline bt_bb_size_large bt_bb_align_inherit" style=" --primary-color:#191919; --secondary-color:#ec5750;" data-bt-override-class="{}">
 																<h3 class="bt_bb_headline_tag"><span class="bt_bb_headline_superheadline">BEGINNERS
 																		COURSE</span><span class="bt_bb_headline_content"><span>Gutar
 																			Lessons</span></span></h3>
 															</header>
 															<div class="bt_bb_separator bt_bb_border_style_none bt_bb_bottom_spacing_small" data-bt-override-class="null"></div>
-															<div class="bt_bb_counter_holder btNoIcon bt_bb_size_large bt_bb_color_scheme_5" style="; --counter-primary-color:#191919; --counter-secondary-color:#ec5750;" data-bt-override-class="null">
+															<div class="bt_bb_counter_holder btNoIcon bt_bb_size_large bt_bb_color_scheme_5" style=" --counter-primary-color:#191919; --counter-secondary-color:#ec5750;" data-bt-override-class="null">
 																<div class="bt_bb_counter_content"><span class="bt_bb_counter animate animated" data-digit-length="4"><span class="onedigit p4 d$" data-digit="$" style="transform: translateY(-755.938px);"><span class="t">$</span></span><span class="onedigit p3 d5" data-digit="5" style="transform: translateY(-377.969px);"><span class="n0">0</span><span class="n1">1</span><span class="n2">2</span><span class="n3">3</span><span class="n4">4</span><span class="n5">5</span><span class="n6">6</span><span class="n7">7</span><span class="n8">8</span><span class="n9">9</span><span class="n0">0</span></span><span class="onedigit p2 d9" data-digit="9" style="transform: translateY(-680.344px);"><span class="n0">0</span><span class="n1">1</span><span class="n2">2</span><span class="n3">3</span><span class="n4">4</span><span class="n5">5</span><span class="n6">6</span><span class="n7">7</span><span class="n8">8</span><span class="n9">9</span><span class="n0">0</span></span><span class="onedigit p1 d9" data-digit="9" style="transform: translateY(-680.344px);"><span class="n0">0</span><span class="n1">1</span><span class="n2">2</span><span class="n3">3</span><span class="n4">4</span><span class="n5">5</span><span class="n6">6</span><span class="n7">7</span><span class="n8">8</span><span class="n9">9</span><span class="n0">0</span></span></span></div>
 															</div>
 															<div class="bt_bb_separator bt_bb_border_style_none bt_bb_bottom_spacing_small" data-bt-override-class="null"></div>
@@ -9950,9 +9950,9 @@
 																	creative classes at your pace.</p>
 															</div>
 															<div class="bt_bb_separator bt_bb_border_style_none bt_bb_bottom_spacing_50" data-bt-override-class="null"></div>
-															<div class="bt_bb_button bt_bb_color_scheme_6 bt_bb_icon_position_left bt_bb_style_filled bt_bb_size_small bt_bb_width_inline bt_bb_shape_inherit bt_bb_target_self bt_bb_align_inherit" style="; --primary-color:#ffffff; --secondary-color:#ec5750;" data-bt-override-class="{}"><a href="https://tabula.bold-themes.com/wavy/courses/schedule/" target="_self" class="bt_bb_link" title="VIEW SCHEDULE"><span class="bt_bb_button_text">VIEW
+															<div class="bt_bb_button bt_bb_color_scheme_6 bt_bb_icon_position_left bt_bb_style_filled bt_bb_size_small bt_bb_width_inline bt_bb_shape_inherit bt_bb_target_self bt_bb_align_inherit" style=" --primary-color:#ffffff; --secondary-color:#ec5750;" data-bt-override-class="{}"><a href="https://tabula.bold-themes.com/wavy/courses/schedule/" target="_self" class="bt_bb_link" title="VIEW SCHEDULE"><span class="bt_bb_button_text">VIEW
 																		SCHEDULE</span></a></div>
-															<div class="bt_bb_button bt_bb_color_scheme_10 bt_bb_icon_position_left bt_bb_style_filled bt_bb_size_small bt_bb_width_inline bt_bb_shape_inherit bt_bb_target_self bt_bb_align_inherit" style="; --primary-color:#ffffff; --secondary-color:#7b72cf;" data-bt-override-class="{}"><a href="https://tabula.bold-themes.com/wavy/home/home-music-courses/#" target="_self" class="bt_bb_link" title="1-800-555-678"><span class="bt_bb_button_text">1-800-555-678</span><span data-ico-dripicons="" class="bt_bb_icon_holder"></span></a></div>
+															<div class="bt_bb_button bt_bb_color_scheme_10 bt_bb_icon_position_left bt_bb_style_filled bt_bb_size_small bt_bb_width_inline bt_bb_shape_inherit bt_bb_target_self bt_bb_align_inherit" style=" --primary-color:#ffffff; --secondary-color:#7b72cf;" data-bt-override-class="{}"><a href="https://tabula.bold-themes.com/wavy/home/home-music-courses/#" target="_self" class="bt_bb_link" title="1-800-555-678"><span class="bt_bb_button_text">1-800-555-678</span><span data-ico-dripicons="" class="bt_bb_icon_holder"></span></a></div>
 															<div class="bt_bb_separator bt_bb_border_style_none bt_bb_bottom_spacing_medium bt_bb_hidden_xs bt_bb_hidden_ms bt_bb_hidden_sm" data-bt-override-class="null"></div>
 														</div>
 													</div>
@@ -9976,7 +9976,7 @@
 							</div>
 							<div class="bt_bb_section_top_section_coverage_image"><img src="<?= get_template_directory_uri() ?>/assets/Wave_White_top_right_shape_01.png" alt="bt_bb_section_top_section_coverage_image"></div>
 						</section>
-						<section id="bt_bb_section6545ff5b4cbcb" class="bt_bb_section bt_bb_layout_boxed_1200 bt_bb_vertical_align_top bt_bb_bottom_spacing_normal bt_bb_section_with_bottom_coverage_image" style=";background-color:#F5DDAF;" data-bt-override-class="null">
+						<section id="bt_bb_section6545ff5b4cbcb" class="bt_bb_section bt_bb_layout_boxed_1200 bt_bb_vertical_align_top bt_bb_bottom_spacing_normal bt_bb_section_with_bottom_coverage_image" style="background-color:#F5DDAF;" data-bt-override-class="null">
 							<div class="bt_bb_port">
 								<div class="bt_bb_cell">
 									<div class="bt_bb_cell_inner">
@@ -9999,13 +9999,13 @@
 													<div class="bt_bb_column_content">
 														<div class="bt_bb_column_content_inner">
 															<div class="bt_bb_separator bt_bb_border_style_none bt_bb_bottom_spacing_normal" data-bt-override-class="null"></div>
-															<header class="bt_bb_headline bt_bb_color_scheme_5 bt_bb_dash_none bt_bb_superheadline bt_bb_size_large bt_bb_align_inherit" style="; --primary-color:#191919; --secondary-color:#ec5750;" data-bt-override-class="{}">
+															<header class="bt_bb_headline bt_bb_color_scheme_5 bt_bb_dash_none bt_bb_superheadline bt_bb_size_large bt_bb_align_inherit" style=" --primary-color:#191919; --secondary-color:#ec5750;" data-bt-override-class="{}">
 																<h3 class="bt_bb_headline_tag"><span class="bt_bb_headline_superheadline">SPECIAL
 																		OFFER </span><span class="bt_bb_headline_content"><span>Piano
 																			Lessons</span></span></h3>
 															</header>
 															<div class="bt_bb_separator bt_bb_border_style_none bt_bb_bottom_spacing_small" data-bt-override-class="null"></div>
-															<div class="bt_bb_counter_holder btNoIcon bt_bb_size_large bt_bb_color_scheme_5" style="; --counter-primary-color:#191919; --counter-secondary-color:#ec5750;" data-bt-override-class="null">
+															<div class="bt_bb_counter_holder btNoIcon bt_bb_size_large bt_bb_color_scheme_5" style=" --counter-primary-color:#191919; --counter-secondary-color:#ec5750;" data-bt-override-class="null">
 																<div class="bt_bb_counter_content"><span class="bt_bb_counter animate animated" data-digit-length="4"><span class="onedigit p4 d$" data-digit="$" style="transform: translateY(-755.938px);"><span class="t">$</span></span><span class="onedigit p3 d5" data-digit="5" style="transform: translateY(-377.969px);"><span class="n0">0</span><span class="n1">1</span><span class="n2">2</span><span class="n3">3</span><span class="n4">4</span><span class="n5">5</span><span class="n6">6</span><span class="n7">7</span><span class="n8">8</span><span class="n9">9</span><span class="n0">0</span></span><span class="onedigit p2 d9" data-digit="9" style="transform: translateY(-680.344px);"><span class="n0">0</span><span class="n1">1</span><span class="n2">2</span><span class="n3">3</span><span class="n4">4</span><span class="n5">5</span><span class="n6">6</span><span class="n7">7</span><span class="n8">8</span><span class="n9">9</span><span class="n0">0</span></span><span class="onedigit p1 d9" data-digit="9" style="transform: translateY(-680.344px);"><span class="n0">0</span><span class="n1">1</span><span class="n2">2</span><span class="n3">3</span><span class="n4">4</span><span class="n5">5</span><span class="n6">6</span><span class="n7">7</span><span class="n8">8</span><span class="n9">9</span><span class="n0">0</span></span></span></div>
 															</div>
 															<div class="bt_bb_separator bt_bb_border_style_none bt_bb_bottom_spacing_small" data-bt-override-class="null"></div>
@@ -10015,9 +10015,9 @@
 																	mollit park vinyl.</p>
 															</div>
 															<div class="bt_bb_separator bt_bb_border_style_none bt_bb_bottom_spacing_50" data-bt-override-class="null"></div>
-															<div class="bt_bb_button bt_bb_color_scheme_6 bt_bb_icon_position_left bt_bb_style_filled bt_bb_size_small bt_bb_width_inline bt_bb_shape_inherit bt_bb_target_self bt_bb_align_inherit" style="; --primary-color:#ffffff; --secondary-color:#ec5750;" data-bt-override-class="{}"><a href="https://tabula.bold-themes.com/wavy/courses/schedule/" target="_self" class="bt_bb_link" title="VIEW SCHEDULE"><span class="bt_bb_button_text">VIEW
+															<div class="bt_bb_button bt_bb_color_scheme_6 bt_bb_icon_position_left bt_bb_style_filled bt_bb_size_small bt_bb_width_inline bt_bb_shape_inherit bt_bb_target_self bt_bb_align_inherit" style=" --primary-color:#ffffff; --secondary-color:#ec5750;" data-bt-override-class="{}"><a href="https://tabula.bold-themes.com/wavy/courses/schedule/" target="_self" class="bt_bb_link" title="VIEW SCHEDULE"><span class="bt_bb_button_text">VIEW
 																		SCHEDULE</span></a></div>
-															<div class="bt_bb_button bt_bb_color_scheme_10 bt_bb_icon_position_left bt_bb_style_filled bt_bb_size_small bt_bb_width_inline bt_bb_shape_inherit bt_bb_target_self bt_bb_align_inherit" style="; --primary-color:#ffffff; --secondary-color:#7b72cf;" data-bt-override-class="{}"><a href="https://tabula.bold-themes.com/wavy/home/home-music-courses/#" target="_self" class="bt_bb_link" title="1-800-555-678"><span class="bt_bb_button_text">1-800-555-678</span><span data-ico-dripicons="" class="bt_bb_icon_holder"></span></a></div>
+															<div class="bt_bb_button bt_bb_color_scheme_10 bt_bb_icon_position_left bt_bb_style_filled bt_bb_size_small bt_bb_width_inline bt_bb_shape_inherit bt_bb_target_self bt_bb_align_inherit" style=" --primary-color:#ffffff; --secondary-color:#7b72cf;" data-bt-override-class="{}"><a href="https://tabula.bold-themes.com/wavy/home/home-music-courses/#" target="_self" class="bt_bb_link" title="1-800-555-678"><span class="bt_bb_button_text">1-800-555-678</span><span data-ico-dripicons="" class="bt_bb_icon_holder"></span></a></div>
 															<div class="bt_bb_separator bt_bb_border_style_none bt_bb_bottom_spacing_medium" data-bt-override-class="null"></div>
 														</div>
 													</div>
@@ -10038,7 +10038,7 @@
 												<div class="bt_bb_column col-xxl-12 col-xl-12 bt_bb_vertical_align_top bt_bb_align_center bt_bb_padding_normal bt_bb_animation_fade_in bt_bb_animation_move_up animate bt_bb_shape_inherit animated" data-width="12" data-bt-override-class="{}">
 													<div class="bt_bb_column_content">
 														<div class="bt_bb_column_content_inner">
-															<header class="bt_bb_headline bt_bb_color_scheme_2 bt_bb_dash_none bt_bb_size_extralarge bt_bb_align_inherit" style="; --primary-color:#191919; --secondary-color:#ffffff;" data-bt-override-class="{}">
+															<header class="bt_bb_headline bt_bb_color_scheme_2 bt_bb_dash_none bt_bb_size_extralarge bt_bb_align_inherit" style=" --primary-color:#191919; --secondary-color:#ffffff;" data-bt-override-class="{}">
 																<h2 class="bt_bb_headline_tag"><span class="bt_bb_headline_content"><span>Weekly
 																			Schedules</span></span></h2>
 															</header>
@@ -10053,7 +10053,7 @@
 												<div class="bt_bb_column col-xxl-4 col-xl-4 bt_bb_vertical_align_top bt_bb_align_left bt_bb_padding_normal bt_bb_animation_fade_in bt_bb_animation_move_up animate bt_bb_shape_inherit animated" data-width="4" data-bt-override-class="{}">
 													<div class="bt_bb_column_content" style="background-color:rgba(255, 255, 255, 1);">
 														<div class="bt_bb_column_content_inner">
-															<div class="bt_bb_schedule bt_bb_shape_soft-rounded btHasBgImage bt_bb_color_scheme_12" style="; --schedule-primary-color:#ec5750; --schedule-secondary-color:#efefef;">
+															<div class="bt_bb_schedule bt_bb_shape_soft-rounded btHasBgImage bt_bb_color_scheme_12" style=" --schedule-primary-color:#ec5750; --schedule-secondary-color:#efefef;">
 																<div class="bt_bb_schedule_title_flex" style="background-image:url(&#39;https://tabula.bold-themes.com/wavy/wp-content/uploads/sites/3/2019/05/schedules_image_04.jpg&#39;)">
 																	<div class="bt_bb_schedule_supertitle">ADVANCED C1,
 																		C2, C3</div>
@@ -10111,7 +10111,7 @@
 												<div class="bt_bb_column col-xxl-4 col-xl-4 bt_bb_vertical_align_top bt_bb_align_left bt_bb_padding_normal bt_bb_animation_fade_in bt_bb_animation_move_up animate bt_bb_shape_inherit animated" data-width="4" data-bt-override-class="{}">
 													<div class="bt_bb_column_content">
 														<div class="bt_bb_column_content_inner">
-															<div class="bt_bb_schedule bt_bb_shape_soft-rounded btHasBgImage bt_bb_color_scheme_12" style="; --schedule-primary-color:#ec5750; --schedule-secondary-color:#efefef;">
+															<div class="bt_bb_schedule bt_bb_shape_soft-rounded btHasBgImage bt_bb_color_scheme_12" style=" --schedule-primary-color:#ec5750; --schedule-secondary-color:#efefef;">
 																<div class="bt_bb_schedule_title_flex" style="background-image:url(&#39;https://tabula.bold-themes.com/wavy/wp-content/uploads/sites/3/2019/05/schedules_image_05.jpg&#39;)">
 																	<div class="bt_bb_schedule_supertitle">BEGINNERS
 																	</div>
@@ -10169,7 +10169,7 @@
 												<div class="bt_bb_column col-xxl-4 col-xl-4 bt_bb_vertical_align_top bt_bb_align_left bt_bb_padding_normal bt_bb_animation_fade_in bt_bb_animation_move_up animate bt_bb_shape_inherit animated" data-width="4" data-bt-override-class="{}">
 													<div class="bt_bb_column_content" style="background-color:rgba(255, 255, 255, 1);">
 														<div class="bt_bb_column_content_inner">
-															<div class="bt_bb_schedule bt_bb_shape_soft-rounded btHasBgImage bt_bb_color_scheme_12" style="; --schedule-primary-color:#ec5750; --schedule-secondary-color:#efefef;">
+															<div class="bt_bb_schedule bt_bb_shape_soft-rounded btHasBgImage bt_bb_color_scheme_12" style=" --schedule-primary-color:#ec5750; --schedule-secondary-color:#efefef;">
 																<div class="bt_bb_schedule_title_flex" style="background-image:url(&#39;https://tabula.bold-themes.com/wavy/wp-content/uploads/sites/3/2019/05/schedules_image_06.jpg&#39;)">
 																	<div class="bt_bb_schedule_supertitle">INTERMEDIATE
 																		B1</div>
@@ -10232,7 +10232,7 @@
 													<div class="bt_bb_column_content">
 														<div class="bt_bb_column_content_inner">
 															<div class="bt_bb_separator bt_bb_border_style_none bt_bb_bottom_spacing_normal" data-bt-override-class="null"></div>
-															<div class="bt_bb_button bt_bb_color_scheme_6 bt_bb_icon_position_left bt_bb_style_filled bt_bb_size_medium bt_bb_width_inline bt_bb_shape_inherit bt_bb_target_self bt_bb_align_inherit" style="; --primary-color:#ffffff; --secondary-color:#ec5750;" data-bt-override-class="{}"><a href="https://tabula.bold-themes.com/wavy/courses/schedule/" target="_self" class="bt_bb_link" title="VIEW MORE"><span class="bt_bb_button_text">VIEW MORE</span></a>
+															<div class="bt_bb_button bt_bb_color_scheme_6 bt_bb_icon_position_left bt_bb_style_filled bt_bb_size_medium bt_bb_width_inline bt_bb_shape_inherit bt_bb_target_self bt_bb_align_inherit" style=" --primary-color:#ffffff; --secondary-color:#ec5750;" data-bt-override-class="{}"><a href="https://tabula.bold-themes.com/wavy/courses/schedule/" target="_self" class="bt_bb_link" title="VIEW MORE"><span class="bt_bb_button_text">VIEW MORE</span></a>
 															</div>
 															<div class="bt_bb_separator bt_bb_border_style_none bt_bb_bottom_spacing_normal" data-bt-override-class="null"></div>
 														</div>
@@ -10249,7 +10249,7 @@
 								<div class="bt_bb_cell">
 									<div class="bt_bb_cell_inner">
 										<div class="bt_bb_row_wrapper">
-											<div class="bt_bb_row bt_bb_color_scheme_10 bt_bb_column_gap_0 bt_bb_shape_soft-rounded" style="; --row-primary-color:#ffffff; --row-secondary-color:#7b72cf;" data-bt-override-class="{}" data-structure="4-8">
+											<div class="bt_bb_row bt_bb_color_scheme_10 bt_bb_column_gap_0 bt_bb_shape_soft-rounded" style=" --row-primary-color:#ffffff; --row-secondary-color:#7b72cf;" data-bt-override-class="{}" data-structure="4-8">
 												<div class="bt_bb_column col-xxl-4 col-xl-4 bt_bb_vertical_align_middle bt_bb_align_left bt_bb_padding_normal bt_bb_animation_fade_in bt_bb_animation_move_up animate bt_bb_shape_inherit animated" data-width="4" data-bt-override-class="{}">
 													<div class="bt_bb_column_content">
 														<div class="bt_bb_column_content_inner">
@@ -10280,7 +10280,7 @@
 																	</div>
 																</div>
 															</div>
-															<div class="bt_bb_organic_animation bt_bb_organic_animation_stroke_accent bt_bb_style_filled bt_bb_title_size_normal bt_bb_color_scheme_8 bt_bb_hidden_lg" style="; --organic-animation-primary-color:#7b72cf; --organic-animation-secondary-color:#ffffff;">
+															<div class="bt_bb_organic_animation bt_bb_organic_animation_stroke_accent bt_bb_style_filled bt_bb_title_size_normal bt_bb_color_scheme_8 bt_bb_hidden_lg" style=" --organic-animation-primary-color:#7b72cf; --organic-animation-secondary-color:#ffffff;">
 
 																<div class="item item--style-1" data-morph-path="M 433.19903,229.13547 C 413.30579,130.13156 305.30793,73.454562 204.939,80.795447 72.546937,90.478473 36.059001,277.17547 66.409001,363.42547 96.759001,449.67546 213.81232,445.88852 287.119,434.59546 390.40652,418.68378 451.20129,318.77355 433.19903,229.13547 Z" data-animation-path-duration="1700" data-animation-path-delay="0" data-animation-path-easing="easeInOutBack" data-path-elasticity="1500" data-path-scalex="1.1" data-path-scaley="1.1" data-path-translatex="0" data-path-translatey="-20" data-path-rotate="15" data-animation-image-duration="2000" data-animation-image-delay="0" data-animation-image-easing="easeInOutQuart" data-image-elasticity="400" data-image-scalex="1.3" data-image-scaley="1.3" data-image-translatex="0" data-image-translatey="40" data-image-rotate="0" data-animation-deco-duration="3000" data-animation-deco-delay="0" data-animation-deco-easing="easeInOutBack" data-deco-elasticity="400" data-deco-scalex="0.8" data-deco-scaley="1" data-deco-translatex="0" data-deco-translatey="-10" data-deco-rotate="-20">
 																	<svg class="item__svg" viewBox="0 0 500 500">
@@ -10343,7 +10343,7 @@
 												<div class="bt_bb_column col-xxl-3 col-xl-3 bt_bb_vertical_align_middle bt_bb_align_right bt_bb_padding_normal bt_bb_animation_fade_in bt_bb_animation_move_up animate bt_bb_shape_inherit animated" data-width="3" data-bt-override-class="{}">
 													<div class="bt_bb_column_content">
 														<div class="bt_bb_column_content_inner">
-															<div class="bt_bb_button bt_bb_color_scheme_6 bt_bb_icon_position_left bt_bb_style_filled bt_bb_size_medium bt_bb_width_inline bt_bb_shape_inherit bt_bb_target_self bt_bb_align_inherit" style="; --primary-color:#ffffff; --secondary-color:#ec5750;" data-bt-override-class="{}"><a href="https://tabula.bold-themes.com/wavy/courses/workshops-and-events/" target="_self" class="bt_bb_link" title="VIEW MORE"><span class="bt_bb_button_text">VIEW MORE</span></a>
+															<div class="bt_bb_button bt_bb_color_scheme_6 bt_bb_icon_position_left bt_bb_style_filled bt_bb_size_medium bt_bb_width_inline bt_bb_shape_inherit bt_bb_target_self bt_bb_align_inherit" style=" --primary-color:#ffffff; --secondary-color:#ec5750;" data-bt-override-class="{}"><a href="https://tabula.bold-themes.com/wavy/courses/workshops-and-events/" target="_self" class="bt_bb_link" title="VIEW MORE"><span class="bt_bb_button_text">VIEW MORE</span></a>
 															</div>
 														</div>
 													</div>
@@ -10360,7 +10360,7 @@
 																			&amp; Workshops</span></span></h4>
 															</header>
 															<div class="bt_bb_separator bt_bb_border_style_none bt_bb_bottom_spacing_normal" data-bt-override-class="null"></div>
-															<div class="bt_bb_button bt_bb_color_scheme_6 bt_bb_icon_position_left bt_bb_style_filled bt_bb_size_medium bt_bb_width_inline bt_bb_shape_inherit bt_bb_target_self bt_bb_align_inherit" style="; --primary-color:#ffffff; --secondary-color:#ec5750;" data-bt-override-class="{}"><a href="https://tabula.bold-themes.com/wavy/about-us/contact/" target="_self" class="bt_bb_link" title="DOWNLOAD"><span class="bt_bb_button_text">DOWNLOAD</span></a>
+															<div class="bt_bb_button bt_bb_color_scheme_6 bt_bb_icon_position_left bt_bb_style_filled bt_bb_size_medium bt_bb_width_inline bt_bb_shape_inherit bt_bb_target_self bt_bb_align_inherit" style=" --primary-color:#ffffff; --secondary-color:#ec5750;" data-bt-override-class="{}"><a href="https://tabula.bold-themes.com/wavy/about-us/contact/" target="_self" class="bt_bb_link" title="DOWNLOAD"><span class="bt_bb_button_text">DOWNLOAD</span></a>
 															</div>
 														</div>
 													</div>
@@ -10400,7 +10400,7 @@
 																			immersion along the information highway will
 																			close the loop on focusing solely.</div>
 																		<div class="bt_bb_event_content_inner">
-																			<div class="bt_bb_button bt_bb_color_scheme_3 bt_bb_icon_position_right bt_bb_style_clean bt_bb_size_medium bt_bb_width_inline bt_bb_shape_inherit bt_bb_target_self bt_bb_align_inherit" style="; --primary-color:#ec5750; --secondary-color:#191919;" data-bt-override-class="{}"><a href="https://tabula.bold-themes.com/wavy/courses/workshops-and-events/" target="_self" class="bt_bb_link" title="APPLY NOW"><span class="bt_bb_button_text">APPLY
+																			<div class="bt_bb_button bt_bb_color_scheme_3 bt_bb_icon_position_right bt_bb_style_clean bt_bb_size_medium bt_bb_width_inline bt_bb_shape_inherit bt_bb_target_self bt_bb_align_inherit" style=" --primary-color:#ec5750; --secondary-color:#191919;" data-bt-override-class="{}"><a href="https://tabula.bold-themes.com/wavy/courses/workshops-and-events/" target="_self" class="bt_bb_link" title="APPLY NOW"><span class="bt_bb_button_text">APPLY
 																						NOW</span><span data-ico-dripicons="" class="bt_bb_icon_holder"></span></a>
 																			</div>
 																		</div>
@@ -10435,7 +10435,7 @@
 																			PBR&amp;B hot chicken children in a school.
 																		</div>
 																		<div class="bt_bb_event_content_inner">
-																			<div class="bt_bb_button bt_bb_color_scheme_3 bt_bb_icon_position_right bt_bb_style_clean bt_bb_size_medium bt_bb_width_inline bt_bb_shape_inherit bt_bb_target_self bt_bb_align_inherit" style="; --primary-color:#ec5750; --secondary-color:#191919;" data-bt-override-class="{}"><a href="https://tabula.bold-themes.com/wavy/courses/workshops-and-events/" target="_self" class="bt_bb_link" title="GET TICKETS"><span class="bt_bb_button_text">GET
+																			<div class="bt_bb_button bt_bb_color_scheme_3 bt_bb_icon_position_right bt_bb_style_clean bt_bb_size_medium bt_bb_width_inline bt_bb_shape_inherit bt_bb_target_self bt_bb_align_inherit" style=" --primary-color:#ec5750; --secondary-color:#191919;" data-bt-override-class="{}"><a href="https://tabula.bold-themes.com/wavy/courses/workshops-and-events/" target="_self" class="bt_bb_link" title="GET TICKETS"><span class="bt_bb_button_text">GET
 																						TICKETS</span><span data-ico-dripicons="" class="bt_bb_icon_holder"></span></a>
 																			</div>
 																		</div>
@@ -10469,7 +10469,7 @@
 																			bread vinyl air plant. Deep v selfies keytar
 																			disrupt synt.</div>
 																		<div class="bt_bb_event_content_inner">
-																			<div class="bt_bb_button bt_bb_color_scheme_5 bt_bb_icon_position_right bt_bb_style_clean bt_bb_size_medium bt_bb_width_inline bt_bb_shape_inherit bt_bb_target_self bt_bb_align_inherit" style="; --primary-color:#191919; --secondary-color:#ec5750;" data-bt-override-class="{}"><a href="https://tabula.bold-themes.com/wavy/home/home-music-courses/#" target="_self" class="bt_bb_link" title="SOLD OUT"><span class="bt_bb_button_text">SOLD
+																			<div class="bt_bb_button bt_bb_color_scheme_5 bt_bb_icon_position_right bt_bb_style_clean bt_bb_size_medium bt_bb_width_inline bt_bb_shape_inherit bt_bb_target_self bt_bb_align_inherit" style=" --primary-color:#191919; --secondary-color:#ec5750;" data-bt-override-class="{}"><a href="https://tabula.bold-themes.com/wavy/home/home-music-courses/#" target="_self" class="bt_bb_link" title="SOLD OUT"><span class="bt_bb_button_text">SOLD
 																						OUT</span><span data-ico-dripicons="" class="bt_bb_icon_holder"></span></a>
 																			</div>
 																		</div>
@@ -10506,7 +10506,7 @@
 												<div class="bt_bb_column col-xxl-4 col-xl-4 bt_bb_vertical_align_top bt_bb_align_center bt_bb_padding_double bt_bb_animation_fade_in animate bt_bb_shape_inherit animated" data-width="4" data-bt-override-class="{}">
 													<div class="bt_bb_column_content">
 														<div class="bt_bb_column_content_inner">
-															<div class="bt_bb_price_list bt_bb_style_borderless bt_bb_color_scheme_5" style="; --price-list-primary-color:#191919; --price-list-secondary-color:#ec5750;">
+															<div class="bt_bb_price_list bt_bb_style_borderless bt_bb_color_scheme_5" style=" --price-list-primary-color:#191919; --price-list-secondary-color:#ec5750;">
 																<div class="bt_bb_price_list_supertitle">FROM</div>
 																<div class="bt_bb_price_list_price"><span class="bt_bb_price_list_currency">$</span>
 																	<div class="bt_bb_price_list_amount">
@@ -10530,7 +10530,7 @@
 												<div class="bt_bb_column col-xxl-4 col-xl-4 bt_bb_vertical_align_top bt_bb_align_center bt_bb_padding_double bt_bb_animation_fade_in animate bt_bb_shape_inherit animated" data-width="4" data-bt-override-class="{}">
 													<div class="bt_bb_column_content">
 														<div class="bt_bb_column_content_inner">
-															<div class="bt_bb_price_list bt_bb_style_filled bt_bb_shape_soft-rounded bt_bb_color_scheme_5" style="; --price-list-primary-color:#191919; --price-list-secondary-color:#ec5750;">
+															<div class="bt_bb_price_list bt_bb_style_filled bt_bb_shape_soft-rounded bt_bb_color_scheme_5" style=" --price-list-primary-color:#191919; --price-list-secondary-color:#ec5750;">
 																<div class="bt_bb_price_list_supertitle">FROM</div>
 																<div class="bt_bb_price_list_price"><span class="bt_bb_price_list_currency">$</span>
 																	<div class="bt_bb_price_list_amount">
@@ -10553,7 +10553,7 @@
 												<div class="bt_bb_column col-xxl-4 col-xl-4 bt_bb_vertical_align_top bt_bb_align_center bt_bb_padding_double bt_bb_animation_fade_in animate bt_bb_shape_inherit animated" data-width="4" data-bt-override-class="{}">
 													<div class="bt_bb_column_content">
 														<div class="bt_bb_column_content_inner">
-															<div class="bt_bb_price_list bt_bb_style_borderless bt_bb_color_scheme_5" style="; --price-list-primary-color:#191919; --price-list-secondary-color:#ec5750;">
+															<div class="bt_bb_price_list bt_bb_style_borderless bt_bb_color_scheme_5" style=" --price-list-primary-color:#191919; --price-list-secondary-color:#ec5750;">
 																<div class="bt_bb_price_list_supertitle">FROM</div>
 																<div class="bt_bb_price_list_price"><span class="bt_bb_price_list_currency">$</span>
 																	<div class="bt_bb_price_list_amount">
@@ -10583,7 +10583,7 @@
 															<div class="bt_bb_separator bt_bb_border_style_none bt_bb_bottom_spacing_large bt_bb_hidden_xs bt_bb_hidden_ms bt_bb_hidden_sm" data-bt-override-class="null"></div>
 															<div class="bt_bb_slider bt_bb_height_auto bt_bb_multiple_slides bt_bb_animation_slide animate animated">
 																<div class="slick-slider slick-initialized" data-slick="{ &quot;lazyLoad&quot;: &quot;progressive&quot;, &quot;cssEase&quot;: &quot;ease-out&quot;, &quot;speed&quot;: &quot;300&quot;, &quot;adaptiveHeight&quot;: true, &quot;prevArrow&quot;: &quot;&lt;button type=\&quot;button\&quot; class=\&quot;slick-prev\&quot; aria-label=\&quot;Previous\&quot; tabindex=\&quot;0\&quot; role=\&quot;button\&quot;&gt;&lt;/button&gt;&quot;, &quot;nextArrow&quot;: &quot;&lt;button type=\&quot;button\&quot; class=\&quot;slick-next\&quot; aria-label=\&quot;Next\&quot; tabindex=\&quot;0\&quot; role=\&quot;button\&quot;&gt;&lt;/button&gt;&quot;,&quot;slidesToShow&quot;: 4, &quot;autoplay&quot;: true, &quot;autoplaySpeed&quot;: 3000, &quot;responsive&quot;: [{ &quot;breakpoint&quot;: 480, &quot;settings&quot;: { &quot;slidesToShow&quot;: 1, &quot;slidesToScroll&quot;: 1 } },{ &quot;breakpoint&quot;: 768, &quot;settings&quot;: { &quot;slidesToShow&quot;: 2, &quot;slidesToScroll&quot;: 2 } },{ &quot;breakpoint&quot;: 920, &quot;settings&quot;: { &quot;slidesToShow&quot;: 3, &quot;slidesToScroll&quot;: 3 } }]}">
-																	<button type="button" class="slick-prev slick-arrow" aria-label="Previous" role="button" style=""></button>
+																	<button type="button" class="slick-prev slick-arrow" aria-label="Previous" role="button"></button>
 																	<div class="slick-list draggable">
 																		<div class="slick-track" style="opacity: 1; width: 4200px; transform: translate3d(-2100px, 0px, 0px);">
 																			<div class="bt_bb_slider_item slick-slide slick-cloned" data-src-full="https://tabula.bold-themes.com/wavy/wp-content/uploads/sites/3/2019/04/gallery_06.jpg" data-slick-index="-4" id="" aria-hidden="true" style="width: 300px;" tabindex="-1"><img src="<?= get_template_directory_uri() ?>/assets/gallery_06.jpg" alt="gallery_06" title="gallery_06">
@@ -10615,7 +10615,7 @@
 																			<div class="bt_bb_slider_item slick-slide slick-cloned" data-src-full="https://tabula.bold-themes.com/wavy/wp-content/uploads/sites/3/2019/04/gallery_07.jpg" data-slick-index="9" id="" aria-hidden="true" style="width: 300px;" tabindex="-1"><img src="<?= get_template_directory_uri() ?>/assets/gallery_07.jpg" alt="gallery_07" title="gallery_07">
 																			</div>
 																		</div>
-																	</div><button type="button" class="slick-next slick-arrow" aria-label="Next" role="button" style=""></button>
+																	</div><button type="button" class="slick-next slick-arrow" aria-label="Next" role="button"></button>
 																</div>
 															</div>
 														</div>
@@ -10650,7 +10650,7 @@
 								</div>
 							</div>
 						</section>
-						<section id="bt_bb_section6545ff5b55688" class="bt_bb_section bt_bb_layout_boxed_1200 bt_bb_vertical_align_top bt_bb_top_spacing_large bt_bb_bottom_spacing_large bt_bb_section_with_top_coverage_image" style=";background-color:#B0C0CA;" data-bt-override-class="null">
+						<section id="bt_bb_section6545ff5b55688" class="bt_bb_section bt_bb_layout_boxed_1200 bt_bb_vertical_align_top bt_bb_top_spacing_large bt_bb_bottom_spacing_large bt_bb_section_with_top_coverage_image" style="background-color:#B0C0CA;" data-bt-override-class="null">
 							<div class="bt_bb_port">
 								<div class="bt_bb_cell">
 									<div class="bt_bb_cell_inner">
@@ -10696,7 +10696,7 @@
 													<div class="bt_bb_column_content" style="background-color:rgba(255, 255, 255, 1);">
 														<div class="bt_bb_column_content_inner">
 															<div class="bt_bb_separator bt_bb_border_style_none bt_bb_bottom_spacing_40" data-bt-override-class="null"></div>
-															<header class="bt_bb_headline bt_bb_color_scheme_5 bt_bb_dash_none bt_bb_size_normal bt_bb_align_inherit" style="; --primary-color:#191919; --secondary-color:#ec5750;" data-bt-override-class="{}">
+															<header class="bt_bb_headline bt_bb_color_scheme_5 bt_bb_dash_none bt_bb_size_normal bt_bb_align_inherit" style=" --primary-color:#191919; --secondary-color:#ec5750;" data-bt-override-class="{}">
 																<h4 class="bt_bb_headline_tag"><span class="bt_bb_headline_content"><span>Find Your
 																			Course</span></span></h4>
 															</header>
@@ -10742,7 +10742,7 @@
 																								</select>
 																								<div class="trigger open">
 																									Drums</div>
-																								<ul class="options open" style="">
+																								<ul class="options open">
 																									<li data-raw-value="Drums" class="selected">
 																										Drums</li>
 																									<li data-raw-value="Piano" class="">Piano
@@ -10804,21 +10804,21 @@
 																	us</span></span></h5>
 													</header>
 													<div class="bt_bb_separator bt_bb_border_style_none bt_bb_bottom_spacing_normal" data-bt-override-class="null"></div>
-													<div class="bt_bb_icon bt_bb_color_scheme_4 bt_bb_style_borderless bt_bb_size_xsmall bt_bb_shape_circle bt_bb_target_self bt_bb_align_inherit" style="; --primary-color:#ec5750; --secondary-color:#ffffff;" data-bt-override-class="{}"><a href="https://tabula.bold-themes.com/wavy/home/home-music-courses/#" target="_self" title="Franklin St, Greenpoint Ave" data-ico-dripicons="" class="bt_bb_icon_holder"><span>Franklin St, Greenpoint
+													<div class="bt_bb_icon bt_bb_color_scheme_4 bt_bb_style_borderless bt_bb_size_xsmall bt_bb_shape_circle bt_bb_target_self bt_bb_align_inherit" style=" --primary-color:#ec5750; --secondary-color:#ffffff;" data-bt-override-class="{}"><a href="https://tabula.bold-themes.com/wavy/home/home-music-courses/#" target="_self" title="Franklin St, Greenpoint Ave" data-ico-dripicons="" class="bt_bb_icon_holder"><span>Franklin St, Greenpoint
 																Ave</span></a></div>
 													<div class="bt_bb_separator bt_bb_border_style_none bt_bb_bottom_spacing_small" data-bt-override-class="null"></div>
-													<div class="bt_bb_icon bt_bb_color_scheme_4 bt_bb_style_borderless bt_bb_size_xsmall bt_bb_shape_circle bt_bb_target_self bt_bb_align_inherit" style="; --primary-color:#ec5750; --secondary-color:#ffffff;" data-bt-override-class="{}"><a href="https://tabula.bold-themes.com/wavy/home/home-music-courses/#" target="_self" title="+2342 5446 67" data-ico-dripicons="" class="bt_bb_icon_holder"><span>+2342 5446 67</span></a>
+													<div class="bt_bb_icon bt_bb_color_scheme_4 bt_bb_style_borderless bt_bb_size_xsmall bt_bb_shape_circle bt_bb_target_self bt_bb_align_inherit" style=" --primary-color:#ec5750; --secondary-color:#ffffff;" data-bt-override-class="{}"><a href="https://tabula.bold-themes.com/wavy/home/home-music-courses/#" target="_self" title="+2342 5446 67" data-ico-dripicons="" class="bt_bb_icon_holder"><span>+2342 5446 67</span></a>
 													</div>
 													<div class="bt_bb_separator bt_bb_border_style_none bt_bb_bottom_spacing_small" data-bt-override-class="null"></div>
-													<div class="bt_bb_icon bt_bb_color_scheme_4 bt_bb_style_borderless bt_bb_size_xsmall bt_bb_shape_circle bt_bb_target_self bt_bb_align_inherit" style="; --primary-color:#ec5750; --secondary-color:#ffffff;" data-bt-override-class="{}"><a href="https://tabula.bold-themes.com/wavy/home/home-music-courses/#" target="_self" title="Monday - Friday: 8 AM - 5 PM" data-ico-dripicons="" class="bt_bb_icon_holder"><span>Monday - Friday: 8 AM - 5
+													<div class="bt_bb_icon bt_bb_color_scheme_4 bt_bb_style_borderless bt_bb_size_xsmall bt_bb_shape_circle bt_bb_target_self bt_bb_align_inherit" style=" --primary-color:#ec5750; --secondary-color:#ffffff;" data-bt-override-class="{}"><a href="https://tabula.bold-themes.com/wavy/home/home-music-courses/#" target="_self" title="Monday - Friday: 8 AM - 5 PM" data-ico-dripicons="" class="bt_bb_icon_holder"><span>Monday - Friday: 8 AM - 5
 																PM</span></a></div>
 													<div class="bt_bb_separator bt_bb_border_style_none bt_bb_bottom_spacing_normal" data-bt-override-class="null"></div>
-													<div class="bt_bb_icon bt_bb_color_scheme_6 bt_bb_style_borderless bt_bb_size_xsmall bt_bb_shape_circle bt_bb_target_blank bt_bb_text_empty bt_bb_align_inherit" style="; --primary-color:#ffffff; --secondary-color:#ec5750;" data-bt-override-class="{}"><a href="https://twitter.com/bold_themes" target="_blank" data-ico-fontawesome="" class="bt_bb_icon_holder"></a>
+													<div class="bt_bb_icon bt_bb_color_scheme_6 bt_bb_style_borderless bt_bb_size_xsmall bt_bb_shape_circle bt_bb_target_blank bt_bb_text_empty bt_bb_align_inherit" style=" --primary-color:#ffffff; --secondary-color:#ec5750;" data-bt-override-class="{}"><a href="https://twitter.com/bold_themes" target="_blank" data-ico-fontawesome="" class="bt_bb_icon_holder"></a>
 													</div>
-													<div class="bt_bb_icon bt_bb_color_scheme_6 bt_bb_style_borderless bt_bb_size_xsmall bt_bb_shape_circle bt_bb_target_blank bt_bb_text_empty bt_bb_align_inherit" style="; --primary-color:#ffffff; --secondary-color:#ec5750;" data-bt-override-class="{}"><a href="https://www.instagram.com/bold_themes/" target="_blank" data-ico-fontawesome="" class="bt_bb_icon_holder"></a></div>
-													<div class="bt_bb_icon bt_bb_color_scheme_6 bt_bb_style_borderless bt_bb_size_xsmall bt_bb_shape_circle bt_bb_target_blank bt_bb_text_empty bt_bb_align_inherit" style="; --primary-color:#ffffff; --secondary-color:#ec5750;" data-bt-override-class="{}"><a href="https://www.facebook.com/boldthemes/" target="_blank" data-ico-fontawesome="" class="bt_bb_icon_holder"></a>
+													<div class="bt_bb_icon bt_bb_color_scheme_6 bt_bb_style_borderless bt_bb_size_xsmall bt_bb_shape_circle bt_bb_target_blank bt_bb_text_empty bt_bb_align_inherit" style=" --primary-color:#ffffff; --secondary-color:#ec5750;" data-bt-override-class="{}"><a href="https://www.instagram.com/bold_themes/" target="_blank" data-ico-fontawesome="" class="bt_bb_icon_holder"></a></div>
+													<div class="bt_bb_icon bt_bb_color_scheme_6 bt_bb_style_borderless bt_bb_size_xsmall bt_bb_shape_circle bt_bb_target_blank bt_bb_text_empty bt_bb_align_inherit" style=" --primary-color:#ffffff; --secondary-color:#ec5750;" data-bt-override-class="{}"><a href="https://www.facebook.com/boldthemes/" target="_blank" data-ico-fontawesome="" class="bt_bb_icon_holder"></a>
 													</div>
-													<div class="bt_bb_icon bt_bb_color_scheme_6 bt_bb_style_borderless bt_bb_size_xsmall bt_bb_shape_circle bt_bb_target_blank bt_bb_text_empty bt_bb_align_inherit" style="; --primary-color:#ffffff; --secondary-color:#ec5750;" data-bt-override-class="{}"><a href="https://www.youtube.com/channel/UCPL5LgX32KsbQ1i9nV-xiKA" target="_blank" data-ico-fontawesome="" class="bt_bb_icon_holder"></a></div>
+													<div class="bt_bb_icon bt_bb_color_scheme_6 bt_bb_style_borderless bt_bb_size_xsmall bt_bb_shape_circle bt_bb_target_blank bt_bb_text_empty bt_bb_align_inherit" style=" --primary-color:#ffffff; --secondary-color:#ec5750;" data-bt-override-class="{}"><a href="https://www.youtube.com/channel/UCPL5LgX32KsbQ1i9nV-xiKA" target="_blank" data-ico-fontawesome="" class="bt_bb_icon_holder"></a></div>
 													<div class="bt_bb_separator bt_bb_border_style_none bt_bb_bottom_spacing_large" data-bt-override-class="null"></div>
 												</div>
 											</div>

@@ -258,10 +258,6 @@ input {
     font-family: "Roboto", Arial, Helvetica, sans-serif;
 }
 
-input:not([type='checkbox']):not([type='radio']),
-button {
-    -webkit-appearance: none;
-}
 
 input:not([type='submit']):not([type='checkbox']):not([type='radio']),
 textarea,
@@ -2949,9 +2945,7 @@ html:not(.touch) body.btMenuCenter.btMenuHorizontal .menuPort>nav.leftNav>ul>li.
     right: -200%;
 }
 
-html:not(.touch) body.btMenuHorizontal .mainHeader li.btMenuWideDropdown.btMenuWideDropdownCols-0>ul>li {
-    width: INF% !important;
-}
+
 
 html:not(.touch) body.btMenuHorizontal .mainHeader li.btMenuWideDropdown.btMenuWideDropdownCols-1>ul>li {
     width: 100% !important;
@@ -6514,7 +6508,6 @@ a#cancel-comment-reply-link:hover {
         width: 20px;
         height: 20px;
         font: normal 16px/20px FontAwesome;
-        vertical-align: middle;
         text-align: center;
     }
 
@@ -7181,7 +7174,6 @@ body.btHeadingDash_dot:not(.btNoDashInSidebar) .btTopBox>h4:after {
     height: 1em;
     line-height: 1;
     width: 1em;
-    vertical-align: middle;
     color: #fff;
     background-color: #ee5b54;
 }
@@ -7616,7 +7608,6 @@ body.btHeadingDash_dot:not(.btNoDashInSidebar) .btTopBox>h4:after {
     display: block;
     width: 100%;
     opacity: 1;
-    -webkit-backface-visibility: hidden;
     -webkit-transition: opacity 200ms ease;
     -moz-transition: opacity 200ms ease;
     transition: opacity 200ms ease;
@@ -16000,7 +15991,6 @@ div.product table.variations td {
 }
 
 div.product table.variations select {
-    -moz-appearance: none;
     line-height: 1em;
     padding: 0 1em;
 }
@@ -16785,7 +16775,6 @@ div.woocommerce-MyAccount-content header select,
 div.woocommerce-MyAccount-content form select,
 .woocommerce-customer-details select,
 .woocommerce-order-details select {
-    -moz-appearance: none;
     line-height: 1em;
 }
 
