@@ -10790,7 +10790,7 @@
 		<div class="btSiteFooter">
 
 			<div class="bt_bb_wrapper">
-				<section id="bt_bb_section6545ff5b5864e" data-background_image_src="&#39;https://tabula.bold-themes.com/wavy/wp-content/uploads/sites/3/2019/05/footer_background_01.jpg&#39;" class="bt_bb_section bt_bb_color_scheme_1 bt_bb_layout_boxed_1200 bt_bb_vertical_align_top btLazyLoadBackground bt_bb_background_image bt_bb_bottom_spacing_large btLazyLoaded" style="background-image: url(&quot;https://tabula.bold-themes.com/wavy/wp-content/uploads/sites/3/2019/05/footer_background_01.jpg&quot;); --section-primary-color: #ffffff; --section-secondary-color: #191919;" data-bt-override-class="null">
+				<section id="bt_bb_section6545ff5b5864e" data-background_image_src="&#39;https://tabula.bold-themes.com/wavy/wp-content/uploads/sites/3/2019/05/footer_background_01.jpg&#39;" class="bt_bb_section bt_bb_color_scheme_1 bt_bb_layout_boxed_1200 bt_bb_vertical_align_top btLazyLoadBackground bt_bb_background_image bt_bb_bottom_spacing_large btLazyLoaded" style="background-image: url('<?= get_template_directory_uri() . '/assets/image/footer-back.png' ?>'); --section-primary-color: #ffffff; --section-secondary-color: #191919;" data-bt-override-class="null">
 					<div class="bt_bb_port">
 						<div class="bt_bb_cell">
 							<div class="bt_bb_cell_inner">
