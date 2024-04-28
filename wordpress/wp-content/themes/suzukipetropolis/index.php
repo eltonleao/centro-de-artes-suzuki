@@ -9113,8 +9113,9 @@
 																												fingerstache.
 																											</div>
 																											<div class="bt_bb_service_content_button_text">
-																												<a href="https://tabula.bold-themes.com/wavy/home/home-music-courses/#" target="_self" tabindex="-1">VIEW
-																													MORE</a>
+																												<a href="https://tabula.bold-themes.com/wavy/home/home-music-courses/#" target="_self" tabindex="-1">
+																													Ver mais
+																												</a>
 																											</div>
 																										</div>
 																									</div>
@@ -9553,8 +9554,9 @@
 																												chillwave.
 																											</div>
 																											<div class="bt_bb_service_content_button_text">
-																												<a href="https://tabula.bold-themes.com/wavy/home/home-music-courses/#" target="_self" tabindex="-1">VIEW
-																													MORE</a>
+																												<a href="https://tabula.bold-themes.com/wavy/home/home-music-courses/#" target="_self" tabindex="-1">
+																													Veja mais
+																												</a>
 																											</div>
 																										</div>
 																									</div>
