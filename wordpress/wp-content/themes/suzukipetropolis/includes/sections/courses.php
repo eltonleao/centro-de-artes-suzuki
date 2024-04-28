@@ -1,4 +1,8 @@
-<section id="bt_bb_section6545ff5b49f72" class="bt_bb_section bt_bb_layout_boxed_1200 bt_bb_vertical_align_top bt_bb_bottom_spacing_medium" data-bt-override-class="null">
+<section 
+data-aos="fade-up"
+id="bt_bb_section6545ff5b49f72" 
+class="bt_bb_section bt_bb_layout_boxed_1200 bt_bb_vertical_align_top bt_bb_bottom_spacing_medium" 
+data-bt-override-class="null">
 							<div class="bt_bb_port">
 								<div class="bt_bb_cell">
 									<div class="bt_bb_cell_inner">
