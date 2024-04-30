@@ -555,15 +555,6 @@
                                                     </div>
                                                 </div>
                                             </div>
-                                            <ul class="slick-dots">
-                                                <li class=""><button type="button">1</button>
-                                                </li>
-                                                <li class="slick-active"><button type="button">2</button></li>
-                                                <li class=""><button type="button">3</button>
-                                                </li>
-                                                <li class=""><button type="button">4</button>
-                                                </li>
-                                            </ul>
                                         </div>
                                     </div>
                                 </div>

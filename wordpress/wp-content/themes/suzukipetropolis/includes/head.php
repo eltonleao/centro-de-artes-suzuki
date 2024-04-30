@@ -32,6 +32,6 @@
 
 
 
-	<link rel="icon" href="https://tabula.bold-themes.com/wavy/wp-content/uploads/sites/3/2019/04/cropped-favicon-1-32x32.png" sizes="32x32">
-	<link rel="icon" href="https://tabula.bold-themes.com/wavy/wp-content/uploads/sites/3/2019/04/cropped-favicon-1-192x192.png" sizes="192x192">
+	<link rel="icon" href="<?= get_template_directory_uri() ?>/assets/image/logo-suzukipetropolis.svg"  sizes="32x32">
+	<link rel="icon" href="<?= get_template_directory_uri() ?>/assets/image/logo-suzukipetropolis.svg"  sizes="192x192">
 </head>

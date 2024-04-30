@@ -23,12 +23,10 @@
 						<? include_once(__DIR__ . "/includes/sections/guitar_lessons.php") ?>
 						<? include_once(__DIR__ . "/includes/sections/piano_lessons.php") ?>
 						<? include_once(__DIR__ . "/includes/sections/schedule.php") ?>
-						<? include_once(__DIR__ . "/includes/sections/banner.php") ?>
 						<? include_once(__DIR__ . "/includes/sections/events.php") ?>
 						<? include_once(__DIR__ . "/includes/sections/prices.php") ?>
 						<? include_once(__DIR__ . "/includes/sections/gallery.php") ?>
 						<? include_once(__DIR__ . "/includes/sections/spacing.php") ?>
-						<? include_once(__DIR__ . "/includes/sections/form.php") ?>
 						
 					</div>
 				</div>
