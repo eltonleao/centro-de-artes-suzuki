@@ -23,3 +23,8 @@ Use it to make something cool, have fun, and share what you've learned with othe
 #footer{
     padding: 4rem 0;
 }
+
+.bt_bb_service{
+    justify-content: center;
+    align-items: center;
+}

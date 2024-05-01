@@ -60,13 +60,13 @@
 										<div class="subToggler"></div><a href="https://tabula.bold-themes.com/wavy/">Home</a>
 									</li>
 									<li id="menu-item-43" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-43">
-										<div class="subToggler"></div><a href="https://tabula.bold-themes.com/wavy/about-us/">Quem somos</a>
+										<div class="subToggler"></div><a href="/#quem-somos">Quem somos</a>
 									</li>
 									<li id="menu-item-2168" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2168">
-										<div class="subToggler"></div><a href="https://tabula.bold-themes.com/wavy/courses/">Aulas</a>
+										<div class="subToggler"></div><a href="/#aulas">Aulas</a>
 									</li>
 									<li id="menu-item-2168" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2168">
-										<div class="subToggler"></div><a href="https://tabula.bold-themes.com/wavy/courses/">Eventos e workshops</a>
+										<div class="subToggler"></div><a href="/#eventos">Eventos e workshops</a>
 									</li>
 									<!-- <li id="menu-item-2219" class="btMenuWideDropdown menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2219 btMenuWideDropdownCols-3">
 										<div class="subToggler"></div><a href="https://tabula.bold-themes.com/wavy/home/home-music-courses/#">Elements</a>
