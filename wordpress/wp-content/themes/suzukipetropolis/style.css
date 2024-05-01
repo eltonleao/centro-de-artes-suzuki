@@ -1,30 +1,148 @@
 /*
-Theme Name: SuzukiPetropolis
-Theme URI: https://codeytek.com/suzuki
-Author: Imran Sayed
-Author URI: https://codeytek.com/about
-Description: WordPress blogging theme
-Tags: blog, theme
-Version: 1.0
-Requires at least: 5.0
-Tested up to: 5.4
-Requires PHP: 7.0
-License: GNU General Public License v2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
-Text Domain: suzuki
-This theme, like WordPress, is licensed under the GPL.
-Use it to make something cool, have fun, and share what you've learned with others.
+Theme Name: Suzuki Petrópolis
+Theme URI: https://eltonleao.com
+Template: astra
+Author: Elton Leão
+Author URI: https://eltonleao.com
+Description: Astra is fast, fully customizable &amp; beautiful WordPress theme suitable for blog, personal portfolio, business website and WooCommerce storefront. It is very lightweight (less than 50KB on frontend) and offers unparalleled speed. Built with SEO in mind, Astra comes with Schema.org code integrated and is Native AMP ready so search engines will love your site. It offers special features and templates so it works perfectly with all page builders like Elementor, Beaver Builder, Visual Composer, SiteOrigin, Divi, etc. Some of the other features: # WooCommerce Ready # Responsive # RTL &amp; Translation Ready # Extendible with premium addons # Regularly updated # Designed, Developed, Maintained &amp; Supported by Brainstorm Force. Looking for a perfect base theme? Look no further. Astra is fast, fully customizable and WooCommerce ready theme that you can use for building any kind of website!
+Tags: custom-menu,custom-logo,entertainment,one-column,two-columns,left-sidebar,e-commerce,right-sidebar,custom-colors,editor-style,featured-images,full-width-template,microformats,post-formats,rtl-language-support,theme-options,threaded-comments,translation-ready,blog
+Version: 0.0.1.1714597349
+Updated: 2024-05-01 18:02:29
+
+
+1 - TOPO
+2 - MASTEHEAD
+
 */
 
-.logo{
-    right: 15px;
+html{
+    font-size: 15px;
 }
 
-#footer{
-    padding: 4rem 0;
+
+/* 01 - TOPO */
+
+.top-bar-info{
+    display: flex;
+    line-height: 1;
+    gap: 20px;
 }
 
-.bt_bb_service{
+.info__item_container{
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 1;
+    visibility: initial;
+    color: #181818;
+    outline: 0;
+    padding: 0;
+    margin: 0;
+    background-repeat: no-repeat;
+    box-sizing: border-box;
+    display: flex;
+    flex-flow: column nowrap;
+    justify-content: flex-start;
+    align-items: flex-start;
+    align-content: flex-start;
+    transition: all 300ms ease;
+
+}
+
+.top-bar-info__item{
+    display: flex;
+    gap: 10px;
+}
+
+.info_item_icon_container{
+    display: flex;
+    align-items: center;
+}
+
+.info__item_title{
+    visibility: initial;
+    outline: 0;
+    padding: 0;
+    margin: 0;
+    background-repeat: no-repeat;
+    box-sizing: border-box;
+    font-size: .75em;
+    text-transform: uppercase;
+    line-height: 1;
+    padding-bottom: .3em;
+    font-weight: bold;
+    color: #ec5750;
+}
+
+.top-bar-info i{
+    line-height: 1;
+    text-align: left;
+    margin: 0;
+    color: #ec5750;
+}
+
+.main-header-bar-navigation li{
+    font-weight: 400;
+    line-height: 1.8em;
+    visibility: initial;
+    color: #181818;
+    font-size: 13px;
+    font-family: "Lato",Arial,Helvetica,sans-serif;
+    list-style: none;
+    outline: 0;
+    background-repeat: no-repeat;
+    box-sizing: border-box;
+    display: block;
+    margin: 0;
+    padding: 0 30px 0 0;
+    float: left;
+    z-index: 5;
+    position: static;
+}
+
+.main-header-bar-navigation li a{
+    color: #181818;
+    visibility: initial;
+    font-size: 13px;
+    font-family: "Lato",Arial,Helvetica,sans-serif;
+    list-style: none;
+    margin: 0;
+    background-repeat: no-repeat;
+    box-sizing: border-box;
+    text-decoration: none;
+    outline: none;
+    color: inherit;
+    transition: all 100ms linear;
+    display: block;
+    position: relative;
+    padding: 0;
+    font-weight: 700;
+    line-height: 40px;
+}
+
+
+/* 02 - MASTHEAD */
+
+.masthead_cta{
+    font-weight: 400;
+    font-family: "Roboto",Arial,Helvetica,sans-serif;
+    text-align: left;
+    line-height: 1;
+    font-size: .9em;
+    --primary-color: #ffffff;
+    --secondary-color: #ec5750;
+    margin: 0;
+    background-repeat: no-repeat;
+    box-sizing: border-box;
+    outline: none;
+    display: flex;
+    flex-flow: row nowrap;
     justify-content: center;
     align-items: center;
+    align-content: flex-start;
+    text-decoration: none;
+    transition: all 300ms ease;
+    padding: 1.4em 2.6em;
+    border-radius: 50px;
+    box-shadow: 0 0 0 3em #ec5750 inset;
+    color: #ffffff;
 }
