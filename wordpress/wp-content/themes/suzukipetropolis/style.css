@@ -1,30 +1,13 @@
 /*
-Theme Name: SuzukiPetropolis
-Theme URI: https://codeytek.com/suzuki
-Author: Imran Sayed
-Author URI: https://codeytek.com/about
-Description: WordPress blogging theme
-Tags: blog, theme
-Version: 1.0
-Requires at least: 5.0
-Tested up to: 5.4
-Requires PHP: 7.0
-License: GNU General Public License v2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
-Text Domain: suzuki
-This theme, like WordPress, is licensed under the GPL.
-Use it to make something cool, have fun, and share what you've learned with others.
+Theme Name: Suzuki Petrópolis
+Theme URI: https://eltonleao.com
+Template: astra
+Author: Elton Leão
+Author URI: https://eltonleao.com
+Description: Astra is fast, fully customizable &amp; beautiful WordPress theme suitable for blog, personal portfolio, business website and WooCommerce storefront. It is very lightweight (less than 50KB on frontend) and offers unparalleled speed. Built with SEO in mind, Astra comes with Schema.org code integrated and is Native AMP ready so search engines will love your site. It offers special features and templates so it works perfectly with all page builders like Elementor, Beaver Builder, Visual Composer, SiteOrigin, Divi, etc. Some of the other features: # WooCommerce Ready # Responsive # RTL &amp; Translation Ready # Extendible with premium addons # Regularly updated # Designed, Developed, Maintained &amp; Supported by Brainstorm Force. Looking for a perfect base theme? Look no further. Astra is fast, fully customizable and WooCommerce ready theme that you can use for building any kind of website!
+Tags: custom-menu,custom-logo,entertainment,one-column,two-columns,left-sidebar,e-commerce,right-sidebar,custom-colors,editor-style,featured-images,full-width-template,microformats,post-formats,rtl-language-support,theme-options,threaded-comments,translation-ready,blog
+Version: 0.0.1.1714597349
+Updated: 2024-05-01 18:02:29
+
 */
 
-.logo{
-    right: 15px;
-}
-
-#footer{
-    padding: 4rem 0;
-}
-
-.bt_bb_service{
-    justify-content: center;
-    align-items: center;
-}
