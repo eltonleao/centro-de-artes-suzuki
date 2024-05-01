@@ -9,5 +9,140 @@ Tags: custom-menu,custom-logo,entertainment,one-column,two-columns,left-sidebar,
 Version: 0.0.1.1714597349
 Updated: 2024-05-01 18:02:29
 
+
+1 - TOPO
+2 - MASTEHEAD
+
 */
 
+html{
+    font-size: 15px;
+}
+
+
+/* 01 - TOPO */
+
+.top-bar-info{
+    display: flex;
+    line-height: 1;
+    gap: 20px;
+}
+
+.info__item_container{
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 1;
+    visibility: initial;
+    color: #181818;
+    outline: 0;
+    padding: 0;
+    margin: 0;
+    background-repeat: no-repeat;
+    box-sizing: border-box;
+    display: flex;
+    flex-flow: column nowrap;
+    justify-content: flex-start;
+    align-items: flex-start;
+    align-content: flex-start;
+    transition: all 300ms ease;
+
+}
+
+.top-bar-info__item{
+    display: flex;
+    gap: 10px;
+}
+
+.info_item_icon_container{
+    display: flex;
+    align-items: center;
+}
+
+.info__item_title{
+    visibility: initial;
+    outline: 0;
+    padding: 0;
+    margin: 0;
+    background-repeat: no-repeat;
+    box-sizing: border-box;
+    font-size: .75em;
+    text-transform: uppercase;
+    line-height: 1;
+    padding-bottom: .3em;
+    font-weight: bold;
+    color: #ec5750;
+}
+
+.top-bar-info i{
+    line-height: 1;
+    text-align: left;
+    margin: 0;
+    color: #ec5750;
+}
+
+.main-header-bar-navigation li{
+    font-weight: 400;
+    line-height: 1.8em;
+    visibility: initial;
+    color: #181818;
+    font-size: 13px;
+    font-family: "Lato",Arial,Helvetica,sans-serif;
+    list-style: none;
+    outline: 0;
+    background-repeat: no-repeat;
+    box-sizing: border-box;
+    display: block;
+    margin: 0;
+    padding: 0 30px 0 0;
+    float: left;
+    z-index: 5;
+    position: static;
+}
+
+.main-header-bar-navigation li a{
+    color: #181818;
+    visibility: initial;
+    font-size: 13px;
+    font-family: "Lato",Arial,Helvetica,sans-serif;
+    list-style: none;
+    margin: 0;
+    background-repeat: no-repeat;
+    box-sizing: border-box;
+    text-decoration: none;
+    outline: none;
+    color: inherit;
+    transition: all 100ms linear;
+    display: block;
+    position: relative;
+    padding: 0;
+    font-weight: 700;
+    line-height: 40px;
+}
+
+
+/* 02 - MASTHEAD */
+
+.masthead_cta{
+    font-weight: 400;
+    font-family: "Roboto",Arial,Helvetica,sans-serif;
+    text-align: left;
+    line-height: 1;
+    font-size: .9em;
+    --primary-color: #ffffff;
+    --secondary-color: #ec5750;
+    margin: 0;
+    background-repeat: no-repeat;
+    box-sizing: border-box;
+    outline: none;
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: center;
+    align-items: center;
+    align-content: flex-start;
+    text-decoration: none;
+    transition: all 300ms ease;
+    padding: 1.4em 2.6em;
+    border-radius: 50px;
+    box-shadow: 0 0 0 3em #ec5750 inset;
+    color: #ffffff;
+}
