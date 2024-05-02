@@ -22,3 +22,14 @@ endif;
 add_action( 'wp_enqueue_scripts', 'child_theme_configurator_css', 10 );
 
 // END ENQUEUE PARENT ACTION
+
+
+function add_animejs() {
+    wp_enqueue_script('animejs', 'https://cdnjs.cloudflare.com/ajax/libs/animejs/3.2.2/anime.min.js', array(), '3.2.1', true);
+}
+add_action('wp_enqueue_scripts', 'add_animejs');
+
+function my_custom_scripts() {
+    wp_enqueue_script('my-custom-js', get_stylesheet_directory_uri() . '/main.js', array(), null, true);
+}
+add_action('wp_enqueue_scripts', 'my_custom_scripts');
