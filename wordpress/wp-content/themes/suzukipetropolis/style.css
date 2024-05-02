@@ -277,6 +277,16 @@ html{
     color: #ffffff;
 }
 
+.masthead_info_container a:hover{
+    color: #ec5750;
+    box-shadow: 0 0 0 1px #ec5750 inset;
+    background-color: transparent;
+}
+
+.masthead_info_container a:hover span{
+    color: #ec5750;
+}
+
 .masthead_info_container span{
     text-align: left;
     text-decoration: none;
@@ -340,4 +350,31 @@ html{
 .masthead_floating_note2 img{
     position: relative;
     left: 8em;
+}
+
+.menu-link::after{
+    content: ' ';
+    display: block;
+    position: absolute;
+    z-index: 5;
+    bottom: -4px;
+    margin-left: -4px;
+    left: 50%;
+    pointer-events: none;
+    height: 8px;
+    width: 8px;
+    border-radius: 50%;
+    background-color: #ee5b54;
+    -webkit-transition: 300ms ease all;
+    -moz-transition: 300ms ease all;
+    transition: 300ms ease all;
+    transform: scale(0);
+}
+
+.menu-link:hover{
+    color: #ee5b54!important;
+}
+
+.menu-link:hover:after{
+    transform: scale(1);
 }

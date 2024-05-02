@@ -9,3 +9,7 @@ eltonl61_suzuki
 WP ADMIN:
 admin
 ^PZSH@cApXYRbbNv7l
+
+Dir:
+admin
+ykKq8bYk%G}@
