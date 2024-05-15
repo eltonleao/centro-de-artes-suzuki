@@ -1,7 +1,7 @@
 document.addEventListener('DOMContentLoaded', function() {
     anime({
-        targets: '.masthead_floating_note1 img',
-        translateY: -10,
+        targets: '.floating-note-1',
+        translateY: -2,
         loop: true,
         direction: 'alternate',
         easing: 'easeInOutSine',
@@ -9,8 +9,8 @@ document.addEventListener('DOMContentLoaded', function() {
     });
 
     anime({
-        targets: '.masthead_floating_note2 img',
-        translateY: 5,
+        targets: '.floating-note-2',
+        translateY: 2,
         loop: true,
         direction: 'alternate',
         easing: 'easeInOutSine',
