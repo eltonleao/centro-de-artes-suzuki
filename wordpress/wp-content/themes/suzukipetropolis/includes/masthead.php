@@ -96,15 +96,16 @@
 
   .floating-note{
     position: absolute!important;
-    left: 0;
     z-index: 3;
   }
   .floating-note-1{
-    transform: translate(-60px, -60px);
+    left: -100px;;
   }
 
   .floating-note-2{
-    transform: translate(0px, 60px);
+    left: 0;
+    top: 100px;
+
   }
 
   @media (max-width: 768px) {
@@ -128,7 +129,10 @@
         <button class="btn btn-apply text-uppercase">Quero ser Suzuki!</button>
       </div>
       <div class="col-md-6 image-container position-relative">
-        <img class="z-3 position-relative" src="https://tabula.bold-themes.com/wavy/wp-content/uploads/sites/3/2019/05/home_hero_01.png" alt="Music Courses">
+        <img class="z-3 position-relative" 
+        src="
+        https://tabula.bold-themes.com/wavy/wp-content/uploads/sites/3/2019/05/home_hero_01.png
+        " alt="Music Courses">
         <img class=" floating-note floating-note-1" src="https://tabula.bold-themes.com/wavy/wp-content/uploads/sites/3/2019/05/floating_notes_01.png" alt="">
         <img class=" floating-note floating-note-2" src="https://tabula.bold-themes.com/wavy/wp-content/uploads/sites/3/2019/05/floating_notes_02.png" alt="">
 
